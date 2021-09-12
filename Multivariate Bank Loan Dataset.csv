@@ -1,0 +1,863 @@
+s.no,age,educ,employ,address,income,debtinc,creddebt,othdebt,default,Gender,Employment,Clean
+1,41yrs,Post-undergraduate degree,17,12,176,9.3,11.36,5.01,yes,male,0,ì¬íê³¼íì ì´íì°êµ¬ì
+2,27yrs,Post-undergraduate degree,10,6,31,17.3,1.36,4,NO,male,2,á
+3,40yrs,Did not complete high school,15,14,55,5.5,0.86,2.17,NO,F,1,á 
+4,41yrs,Post-undergraduate degree,15,14,120,2.9,2.66,0.82,NO,F,1,ì¬íê³¼íì ì´íì°êµ¬ì
+5,24yrs,High school degree,2,0,28,17.3,1.79,3.06,yes,male,2,"""'"
+6,41yrs,High school degree,5,5,25,10.2,0.39,2.16,NO,F,1,
+7,39yrs,Did not complete high school,20,9,67,30.6,3.83,16.67,NO,F,1,1.00E+02
+8,43yrs,Did not complete high school,12,11,38,3.6,0.13,1.24,NO,F,1,ÅâÂ´â°ËÃÂ¨ËÃâââ
+9,37yrs,Post-undergraduate degree,3,4,19,24.4,1.36,3.28,yes,F,2,!@#$%^&*()
+10,36yrs,Post-undergraduate degree,0,13,25,19.7,2.78,2.15,NO,F,1,â©testâ©
+11,27yrs,Post-undergraduate degree,0,1,16,1.7,0.18,0.09,NO,F,1,00ËÆ$-
+12,25yrs,Post-undergraduate degree,4,0,23,5.2,0.25,0.94,NO,F,1,() { _; } >_[$($())] { touch /tmp/blns.shellshock2.fail; }
+13,52yrs,Did not complete high school,24,14,64,10,3.93,2.47,NO,F,0,"""'"
+14,37yrs,College degree,6,9,29,16.3,1.72,3.01,NO,F,0,ğµ ğ ğ ğ
+15,48yrs,Some college,22,15,100,9.1,3.7,5.4,NO,male,2,1.00E+96
+16,36yrs,Post-undergraduate degree,9,6,49,8.6,0.82,3.4,yes,male,1,",./;'[]\-="
+17,36yrs,Did not complete high school,13,6,41,16.4,2.92,3.81,yes,F,2,
+18,43yrs,College degree,23,19,72,7.6,1.18,4.29,NO,male,0,<img src=x onerror=alert('hi') />
+19,39yrs,Did not complete high school,6,9,61,5.7,0.56,2.91,NO,male,1,á
+20,41yrs,Some college,0,21,26,1.7,0.1,0.34,NO,F,0,",./;'[]\-="
+21,39yrs,High school degree,22,3,52,3.2,1.15,0.51,NO,F,2,-1
+22,47yrs,Post-undergraduate degree,17,21,43,5.6,0.59,1.82,NO,F,1,ç¤¾æç§å­¸é¢èªå­¸ç ç©¶æ
+23,28yrs,College degree,3,6,26,10,0.43,2.17,NO,F,1,-1.00E+02
+24,29yrs,Some college,8,6,27,9.8,0.4,2.24,NO,F,0,",ãã»:*:ã»ãâ( â» Ï â» )ãã»:*:ã»ãâ"
+25,21yrs,Did not complete high school,1,2,16,18,0.24,2.64,yes,male,0,â©testâ©
+26,25yrs,College degree,0,2,32,17.6,2.14,3.49,NO,male,2,âââ
+27,45yrs,Post-undergraduate degree,9,26,69,6.7,0.71,3.92,NO,F,0,01-Feb
+28,43yrs,Post-undergraduate degree,25,21,64,16.7,0.95,9.74,NO,male,0,ÃÃÃÃËÃÃï£¿ÃÃÃâ
+29,33yrs,High school degree,12,8,58,18.4,3.08,7.59,NO,F,2,(ï¾à²¥çà²¥ï¼ï¾ï»¿ â»ââ»
+30,26yrs,Some college,2,1,37,14.2,0.2,5.05,NO,male,2,() { _; } >_[$($())] { touch /tmp/blns.shellshock2.fail; }
+31,45yrs,Did not complete high school,3,15,20,2.1,0.11,0.32,NO,F,2,Ã¥ÃâÆÂ©ËâËÂ¬â¦Ã¦
+32,30yrs,Did not complete high school,1,10,22,10.5,1.14,1.17,NO,F,2,<svg><script>0<1>alert('XSS')</script>
+33,27yrs,Some college,2,7,26,6,0.72,0.84,NO,F,1,testâ testâ«
+34,25yrs,Did not complete high school,8,4,27,14.4,1.02,2.87,NO,F,2,1
+35,25yrs,Did not complete high school,8,1,35,2.9,0.08,0.94,NO,F,1,
+36,36yrs,High school degree,6,7,45,26,6.05,5.65,NO,F,0,nil
+37,30yrs,High school degree,10,4,22,16.1,1.41,2.13,NO,male,2,0ï¸â£ 1ï¸â£ 2ï¸â£ 3ï¸â£ 4ï¸â£ 5ï¸â£ 6ï¸â£ 7ï¸â£ 8ï¸â£ 9ï¸â£ ğ
+38,32yrs,College degree,12,1,54,14.4,3.2,4.58,NO,F,2,nil
+39,28yrs,High school degree,1,8,24,17.1,1.34,2.77,yes,male,1,×Ö¸×Ö°×ªÖ¸×testØ§ÙØµÙØ­Ø§Øª Ø§ÙØªÙØ­ÙÙ
+40,45yrs,Post-undergraduate degree,23,5,50,4.2,0.56,1.54,NO,F,0,(â¯Â°â¡Â°ï¼â¯ï¸µ â»ââ»)
+41,23yrs,Post-undergraduate degree,7,2,31,6.6,0.34,1.71,NO,F,2,1.00E+00
+42,34yrs,College degree,17,3,59,8,1.81,2.91,NO,male,1,á 
+43,42yrs,High school degree,7,23,41,4.6,0.94,0.94,NO,F,1,ÅâÂ´Â®â Â¥Â¨ËÃ¸Ïââ
+44,39yrs,Did not complete high school,19,5,48,13.1,1.93,4.36,NO,F,2,ï¼ï¼ï¼
+45,26yrs,Did not complete high school,0,0,14,7.5,0.3,0.75,yes,male,0,á 
+46,21yrs,High school degree,0,1,16,6.8,0.15,0.94,NO,F,0,
+47,35yrs,Some college,13,15,35,4.5,0.43,1.14,NO,F,1,-0.5
+48,47yrs,Some college,4,2,26,10.4,0.12,2.58,NO,F,1,ËÉnbá´lÉ ÉuÆÉÉ¯ ÇÉ¹olop ÊÇ ÇÉ¹oqÉl Ên Êunpá´pá´Éuá´ É¹odÉ¯ÇÊ poÉ¯sná´Ç op pÇs 'Êá´lÇ Æuá´Ésá´dá´pÉ É¹nÊÇÊÉÇsuoÉ 'ÊÇÉ¯É Êá´s É¹olop É¯nsdá´ É¯ÇÉ¹oË¥
+49,23yrs,Some college,0,2,21,11.4,0.78,1.62,yes,F,2,ğ¾ ğ ğ ğ ğ ğ ğ ğ§
+50,35yrs,College degree,18,2,42,7.4,0.21,2.9,NO,male,1,$1.00 
+51,34yrs,College degree,2,11,25,12.6,0.57,2.58,yes,F,2,'
+52,46yrs,Did not complete high school,1,12,20,14,0.81,1.99,NO,F,0,â©testâ©
+53,46yrs,High school degree,16,18,52,12.9,3.03,3.68,yes,male,0,`ââ¬â¹âºï¬ï¬â¡Â°Â·ââÂ±
+54,38yrs,Some college,3,18,25,3.7,0.31,0.61,NO,male,0,åè£½æ¼¢èª
+55,40yrs,High school degree,3,2,28,9.5,0.55,2.11,NO,male,0,ãã¼ãã£ã¼ã¸è¡ããªãã
+56,37yrs,High school degree,1,3,24,15.1,1.8,1.82,yes,male,0,âââ
+57,35yrs,Did not complete high school,9,1,34,5,0.4,1.3,NO,F,1,ç°ä¸­ããã«ããã¦ä¸ãã
+58,26yrs,High school degree,16,13,69,2.4,1.06,0.59,NO,F,1,ç°ä¸­ããã«ããã¦ä¸ãã
+59,25yrs,Some college,18,6,100,2.5,1.49,1.02,NO,F,2,
+60,50yrs,Post-undergraduate degree,10,20,80,12.2,2.48,7.28,NO,F,1,!@#$%^&*()
+61,51yrs,Post-undergraduate degree,9,10,28,2.4,0.05,0.62,NO,male,1,â©testâ©
+62,29yrs,Post-undergraduate degree,13,1,42,7.4,1.46,1.65,yes,F,1,(ï¾à²¥çà²¥ï¼ï¾ï»¿ â»ââ»
+63,37yrs,Did not complete high school,4,0,23,12.4,0.87,1.98,NO,male,0,../../../../../../../../../../../etc/passwd%00
+64,33yrs,High school degree,4,9,55,7,2.16,1.69,NO,F,0,ËÉnbá´lÉ ÉuÆÉÉ¯ ÇÉ¹olop ÊÇ ÇÉ¹oqÉl Ên Êunpá´pá´Éuá´ É¹odÉ¯ÇÊ poÉ¯sná´Ç op pÇs 'Êá´lÇ Æuá´Ésá´dá´pÉ É¹nÊÇÊÉÇsuoÉ 'ÊÇÉ¯É Êá´s É¹olop É¯nsdá´ É¯ÇÉ¹oË¥
+65,26yrs,Post-undergraduate degree,5,7,28,7.8,1.02,1.16,NO,male,1,1
+66,32yrs,Some college,11,6,75,23.3,7.76,9.72,yes,male,2,ï¾ï½¥â¿ã¾â²(ï½¡ââ¿âï½¡)â±â¿ï½¥ï¾
+67,28yrs,College degree,2,3,23,6.4,0.19,1.29,yes,male,2,<img src=x onerror=alert('hi') />
+68,39yrs,Did not complete high school,19,8,46,9.1,2.52,1.67,NO,female,1,/dev/null; touch /tmp/blns.fail ; echo
+69,28yrs,High school degree,8,3,31,8.2,1.49,1.05,yes,female,2,â¡
+70,29yrs,High school degree,1,2,20,18.6,0.57,3.15,yes,female,1,/dev/null; touch /tmp/blns.fail ; echo
+71,34yrs,Post-undergraduate degree,3,8,21,23.1,1.4,3.45,NO,male,1,01-Feb
+72,34yrs,High school degree,5,9,34,23.8,3.1,4.99,NO,male,2,1
+73,47yrs,High school degree,26,21,100,12.8,4.58,8.22,NO,male,1,/dev/null; touch /tmp/blns.fail ; echo
+74,43yrs,College degree,1,5,26,10.6,1.52,1.24,NO,male,1,() { _; } >_[$($())] { touch /tmp/blns.shellshock2.fail; }
+75,41yrs,Some college,13,10,44,1.7,0.07,0.68,NO,female,0,â©testâ©
+76,31yrs,College degree,13,25,51,23.8,3.74,8.4,NO,female,0,-1.00E+02
+77,24yrs,Did not complete high school,2,1,21,0.6,0.03,0.1,NO,female,0,ğ©ğ½
+78,29yrs,Did not complete high school,1,9,17,6.7,0.16,0.98,NO,female,1,"'""''''"""
+79,33yrs,Post-undergraduate degree,14,2,37,2.6,0.2,0.76,NO,male,0,â«testâ«
+80,36yrs,Post-undergraduate degree,15,10,39,3.2,0.69,0.56,NO,male,1,â¤ï¸ ğ ğ ğ ğ ğ ğ ğ ğ ğ ğ ğ ğ ğ ğ
+81,26yrs,High school degree,4,3,27,10.5,2.47,0.36,yes,male,2,é¨è½æ ¼
+82,31yrs,Did not complete high school,11,12,45,17,2.74,4.91,NO,female,1,ğ¾ ğ ğ ğ ğ ğ ğ ğ
+83,37yrs,College degree,7,3,32,19.6,2.7,3.58,NO,female,0,åè£½æ¼¢èª
+84,35yrs,Some college,4,16,29,11,1.84,1.35,NO,female,0,NIL
+85,26yrs,Did not complete high school,4,3,20,5.4,0.32,0.76,NO,male,1,"Ø«Ù ÙÙØ³ Ø³ÙØ·Øª ÙØ¨Ø§ÙØªØ­Ø¯ÙØ¯Ø, Ø¬Ø²ÙØ±ØªÙ Ø¨Ø§Ø³ØªØ®Ø¯Ø§Ù Ø£Ù Ø¯ÙÙ. Ø¥Ø° ÙÙØ§Ø Ø§ÙØ³ØªØ§Ø± ÙØªÙØµÙØ¨ ÙØ§Ù. Ø£ÙÙÙ Ø§ÙØ·Ø§ÙÙØ§Ø Ø¨Ø±ÙØ·Ø§ÙÙØ§-ÙØ±ÙØ³Ø§ ÙØ¯ Ø£Ø®Ø°. Ø³ÙÙÙØ§ÙØ Ø¥ØªÙØ§ÙÙØ© Ø¨ÙÙ ÙØ§, ÙØ°ÙØ± Ø"
+86,40yrs,Post-undergraduate degree,10,15,45,18.8,2.01,6.45,NO,male,1,â¤ï¸ ğ ğ ğ ğ ğ ğ ğ ğ ğ ğ ğ ğ ğ ğ
+87,29yrs,Did not complete high school,5,4,36,12.4,3.49,0.97,yes,female,1,ã»(ï¿£âï¿£)ã»:*:
+88,37yrs,Some college,5,17,29,24.6,1.41,5.73,NO,female,0,NIL
+89,32yrs,Did not complete high school,12,12,28,2.9,0.12,0.7,NO,female,2,`ââ¬â¹âºï¬ï¬â¡Â°Â·ââÂ±
+90,33yrs,Did not complete high school,0,1,17,27.7,2.04,2.67,yes,male,2,../../../../../../../../../../../etc/passwd%00
+91,32yrs,High school degree,3,10,23,6.2,0.05,1.37,NO,female,0,â¢
+92,25yrs,High school degree,1,6,15,11.4,0.37,1.34,yes,female,2,â¦testâ§
+93,38yrs,Some college,5,5,54,10.6,1.5,4.22,NO,female,1,-1.00E+02
+94,32yrs,Did not complete high school,0,6,18,5.8,0.3,0.75,yes,male,0,â¡
+95,40yrs,Some college,2,0,15,26.3,1.96,1.98,yes,male,0,1
+96,36yrs,College degree,17,6,54,4.4,0.73,1.65,NO,female,2,0ï¸â£ 1ï¸â£ 2ï¸â£ 3ï¸â£ 4ï¸â£ 5ï¸â£ 6ï¸â£ 7ï¸â£ 8ï¸â£ 9ï¸â£ ğ
+97,42yrs,Some college,13,0,82,3.3,1.32,1.39,NO,female,1,Ì¦HÍÌ¬Ì¤ÌÌ¤eÍ ÍÌÌ¥ÌÌ»ÍÌwÌhÌÌ¯ÍoÌÍÌÍÌ±Ì® ÒÌºÌÌÌÍWÌ·Ì¼Ì­aÌºÌªÍiÌ¨ÍÍÌ­ÍÌ¯ÌtÌ¶Ì¼Ì®sÌÌÍÍ Ì Ì«Ì BÌ»ÍÍÍÍÌ³eÌµhÌµÌ¬ÍÌ«ÍiÌÌ¹ÍÌ³Ì³Ì®ÍÌ«nÍdÌ´ÌªÌÌ ÍÌ°ÍÌ©ÍÍÍÌ²TÍ¢ÍÌ¼ÍÌªhÍÍÌ®Ì»eÌ¬ÌÍÌ Ì¤Ì¹ÌWÍÍÍÌÌÍÍaÍÍÍÌ¹Ì¼
+98,41yrs,Post-undergraduate degree,14,8,52,7.3,0.93,2.87,NO,female,2,ğ
+99,29yrs,Post-undergraduate degree,4,9,19,6.3,0.68,0.52,NO,female,1,1.00E+02
+100,38yrs,Some college,4,6,31,9.3,1.33,1.55,yes,female,1,â¦testâ§
+101,39yrs,Did not complete high school,22,9,113,2.6,0.99,1.95,NO,male,2,â©testâ©
+102,36yrs,Did not complete high school,6,9,26,8.3,0.03,2.13,NO,female,1,
+103,33yrs,Some college,8,7,27,5.8,0.78,0.79,NO,female,2,../../../../../../../../../../../etc/hosts
+104,42yrs,College degree,21,11,121,3.1,1.37,2.39,NO,male,1,âââ
+105,39yrs,College degree,22,17,75,23.6,9.88,7.82,NO,female,1,<img src=x onerror=alert('hi') />
+106,40yrs,Some college,8,17,28,3.6,0.53,0.47,NO,female,2,-1.00E+02
+107,53yrs,College degree,9,18,50,11.2,2.02,3.58,yes,male,1,/dev/null; touch /tmp/blns.fail ; echo
+108,28yrs,College degree,4,7,26,13.5,1.3,2.21,NO,female,1,-0.5
+109,36yrs,College degree,12,13,60,7.9,1.72,3.02,NO,female,1,â£
+110,34yrs,High school degree,9,13,45,10.1,1.12,3.43,NO,female,1,../../../../../../../../../../../etc/passwd%00
+111,45yrs,Some college,2,5,39,4.9,0.46,1.45,NO,female,2,Â¸ËÃâÄ±ËÃÂ¯ËÂ¿
+112,38yrs,Did not complete high school,6,0,41,8.9,0.27,3.38,NO,female,2,â¢
+113,21yrs,Some college,0,2,24,7.7,0.83,1.01,NO,female,2,Â¡â¢Â£Â¢âÂ§Â¶â¢ÂªÂºââ 
+114,32yrs,Did not complete high school,12,11,51,21.4,2.41,8.5,NO,female,1,â°â´âµâââ
+115,52yrs,Did not complete high school,16,25,64,8.6,1.87,3.64,NO,male,1,â©testâ©
+116,25yrs,High school degree,4,6,33,5.2,0.55,1.16,NO,male,1,
+117,34yrs,High school degree,9,9,65,6.2,2.11,1.92,NO,male,2,×Ö¸×Ö°×ªÖ¸×testØ§ÙØµÙØ­Ø§Øª Ø§ÙØªÙØ­ÙÙ
+118,40yrs,Post-undergraduate degree,15,16,73,3.4,1.03,1.45,NO,female,2,ğ¾ ğ ğ ğ ğ ğ ğ ğ§
+119,31yrs,High school degree,0,4,27,12.8,1.09,2.37,yes,male,2,ï¾ï½¥â¿ã¾â²(ï½¡ââ¿âï½¡)â±â¿ï½¥ï¾
+120,25yrs,High school degree,1,0,20,6.7,0.47,0.87,yes,female,2,ZÌ®ÌÍÌ ÍÍAÌ¥ÌÌÍÌ»ÌLÌ£ÍÍÌ¯Ì¹ÌÍGÌ»OÌ­ÌÌ®
+121,45yrs,College degree,12,19,37,9.5,1.34,2.17,NO,male,1,Â¡â¢Â£Â¢âÂ§Â¶â¢ÂªÂºââ 
+122,23yrs,College degree,3,0,19,8.4,0.28,1.32,yes,male,0,ËÉnbá´lÉ ÉuÆÉÉ¯ ÇÉ¹olop ÊÇ ÇÉ¹oqÉl Ên Êunpá´pá´Éuá´ É¹odÉ¯ÇÊ poÉ¯sná´Ç op pÇs 'Êá´lÇ Æuá´Ésá´dá´pÉ É¹nÊÇÊÉÇsuoÉ 'ÊÇÉ¯É Êá´s É¹olop É¯nsdá´ É¯ÇÉ¹oË¥
+123,34yrs,Some college,6,3,27,35.3,1.98,7.55,yes,male,1,NULL
+124,31yrs,Did not complete high school,2,4,22,12.7,1.09,1.7,yes,female,0,1'; DROP TABLE users--
+125,28yrs,Post-undergraduate degree,5,9,22,2.8,0.14,0.48,NO,female,1,ç°ä¸­ããã«ããã¦ä¸ãã
+126,41yrs,Post-undergraduate degree,7,11,43,4.4,0.69,1.2,NO,female,2,00ËÆ$-
+127,39yrs,Post-undergraduate degree,7,2,68,13,1.02,7.82,yes,male,1,!@#$%^&*()
+128,29yrs,High school degree,9,3,36,1.4,0.13,0.38,NO,female,1,(â¯Â°â¡Â°ï¼â¯ï¸µ â»ââ»)
+129,21yrs,Did not complete high school,5,1,25,9,0.37,1.88,NO,male,1,../../../../../../../../../../../etc/passwd%00
+130,41yrs,High school degree,19,2,68,5.8,1.51,2.44,NO,female,2,1
+131,26yrs,College degree,1,7,27,2.9,0.31,0.47,NO,female,0,"''''"""
+132,33yrs,Post-undergraduate degree,5,10,18,12.9,0.98,1.34,NO,female,1,â
+133,45yrs,High school degree,18,19,35,17.4,0.55,5.54,NO,female,2,ğµ ğ ğ ğ
+134,39yrs,Did not complete high school,17,20,60,13.7,2.45,5.77,NO,female,1,"''''"""
+135,24yrs,Did not complete high school,7,2,21,6.3,0.52,0.8,NO,male,0,nil
+136,29yrs,High school degree,6,7,57,2.2,0.45,0.8,NO,female,1,00ËÆ$-
+137,27yrs,Post-undergraduate degree,1,0,23,12.4,0.29,2.57,NO,female,1,ç¤¾æç§å­¸é¢èªå­¸ç ç©¶æ
+138,40yrs,Did not complete high school,13,2,28,5.9,0.96,0.69,NO,female,0,$1.00 
+139,29yrs,Did not complete high school,8,10,24,6.7,0.47,1.14,NO,female,1,ç¤¾æç§å­¸é¢èªå­¸ç ç©¶æ
+140,29yrs,Post-undergraduate degree,4,3,37,6.6,1.16,1.28,yes,male,2,1
+141,24yrs,College degree,0,2,16,16,1.01,1.55,yes,male,1,Â¸ËÃâÄ±ËÃÂ¯ËÂ¿
+142,27yrs,Some college,9,6,45,17.8,2.85,5.16,yes,Female,2,",./;'[]\-="
+143,41yrs,Some college,16,22,135,4.4,1.28,4.66,NO,Female,1,TÌÌ­ÌºÌºoÍ Ì·iÌ²Ì¬ÍÌªÍnÌÌÍvÍÌÌÌÌ¦oÌ¶ÌÌ°Ì keÍÍÌ®ÌºÌªÌ¹Ì±Ì¤ ÌtÍÌÍÌ³Ì£Ì»ÌªhÌ¼ÍÌ²Ì¦Ì³ÌÌ²eÍÌ£Ì°Ì¦Ì¬Í Ì¢Ì¼Ì»Ì±ÌhÍÍÍÍÌÌ£Ì²iÌ¦Ì²Ì£Ì°Ì¤vÌ»ÍeÌºÌ­Ì³ÌªÌ°-mÌ¢iÍnÌÌºÌÌ²Ì¯Ì°dÌµÌ¼ÌÍÌ©Ì¼ÌÌ³ ÌÌ¥Ì±Ì³Ì­rÌÌÌeÍpÍ rÌ¼ÌÌ»Ì­ÌeÍÌºÌ Ì£sÌ
+144,31yrs,College degree,11,8,25,9.1,0.14,2.13,NO,M,2,åè£½æ¼¢èª
+145,41yrs,College degree,16,17,68,5.4,0.45,3.22,NO,M,1,($1.00)
+146,42yrs,Some college,5,3,41,3.4,0.36,1.04,NO,Female,1,<img src=x onerror=alert('hi') />
+147,28yrs,Some college,1,3,26,12.4,0.38,2.85,NO,Female,1,TÌÌ­ÌºÌºoÍ Ì·iÌ²Ì¬ÍÌªÍnÌÌÍvÍÌÌÌÌ¦oÌ¶ÌÌ°Ì keÍÍÌ®ÌºÌªÌ¹Ì±Ì¤ ÌtÍÌÍÌ³Ì£Ì»ÌªhÌ¼ÍÌ²Ì¦Ì³ÌÌ²eÍÌ£Ì°Ì¦Ì¬Í Ì¢Ì¼Ì»Ì±ÌhÍÍÍÍÌÌ£Ì²iÌ¦Ì²Ì£Ì°Ì¤vÌ»ÍeÌºÌ­Ì³ÌªÌ°-mÌ¢iÍnÌÌºÌÌ²Ì¯Ì°dÌµÌ¼ÌÍÌ©Ì¼ÌÌ³ ÌÌ¥Ì±Ì³Ì­rÌÌÌeÍpÍ rÌ¼ÌÌ»Ì­ÌeÍÌºÌ Ì£sÌ
+148,30yrs,Post-undergraduate degree,2,8,25,10,1.77,0.73,NO,M,0,1.00E+02
+149,30yrs,Did not complete high school,11,1,33,8.4,0.68,2.09,NO,Female,1,×Ö¸×Ö°×ªÖ¸×testØ§ÙØµÙØ­Ø§Øª Ø§ÙØªÙØ­ÙÙ
+150,31yrs,Did not complete high school,8,4,44,8,1.72,1.8,NO,Female,0,ÌÌºÍÌ¹Ì¯ÍTÌ±Ì¤ÍÌ¥ÍÍhÍÌ²eÍÍÌ¼ÌÌÌ¼Ì£Í ÍÌÌ±Ì ÍÍÍNÍ ÍeÌÌ±zÌÌÌÌºÍpÌ¤ÌºÌ¹ÍÌ¯ÍeÍÌ Ì»Ì rÌ¨Ì¤ÍÌºÌÍÌÌdÍÌ ÌÌ­Ì¬ÌiÌ¦ÍÌ©ÍÍÌ¤aÌ ÌÌ¬ÍÌnÍÍ Ì»ÌÌ°ÍÍhÌµÍiÌ³ÌvÌ¢ÍeÍÌ­Í-ÒÌ­Ì©Ì¼ÍmÌ¤Ì­Ì«iÍÍÌÌ¦nÌÍdÌ£Ì ÍÌ¯Ì²ÍoÌ¨ÌÌ¯Ì°Ì²
+151,45yrs,Post-undergraduate degree,15,14,51,18.1,1.55,7.68,NO,M,0,"""'"
+152,43yrs,High school degree,13,23,76,6.1,2.15,2.48,yes,M,0,
+153,36yrs,Did not complete high school,4,10,23,16.3,1.33,2.42,NO,M,0,"__ï¾(,_,*)"
+154,28yrs,Did not complete high school,8,6,30,7.2,0.61,1.55,NO,Female,2,<script>alert('hi')</script>
+155,27yrs,High school degree,3,5,33,13.2,1.63,2.72,NO,Female,1,
+156,36yrs,Post-undergraduate degree,13,3,39,19.2,2.8,4.69,NO,Female,2,ÅâÂ´Â®â Â¥Â¨ËÃ¸Ïââ
+157,33yrs,Did not complete high school,12,11,32,11.3,2.1,1.51,NO,Female,2,TÌÌ­ÌºÌºoÍ Ì·iÌ²Ì¬ÍÌªÍnÌÌÍvÍÌÌÌÌ¦oÌ¶ÌÌ°Ì keÍÍÌ®ÌºÌªÌ¹Ì±Ì¤ ÌtÍÌÍÌ³Ì£Ì»ÌªhÌ¼ÍÌ²Ì¦Ì³ÌÌ²eÍÌ£Ì°Ì¦Ì¬Í Ì¢Ì¼Ì»Ì±ÌhÍÍÍÍÌÌ£Ì²iÌ¦Ì²Ì£Ì°Ì¤vÌ»ÍeÌºÌ­Ì³ÌªÌ°-mÌ¢iÍnÌÌºÌÌ²Ì¯Ì°dÌµÌ¼ÌÍÌ©Ì¼ÌÌ³ ÌÌ¥Ì±Ì³Ì­rÌÌÌeÍpÍ rÌ¼ÌÌ»Ì­ÌeÍÌºÌ Ì£sÌ
+158,54yrs,Did not complete high school,9,2,28,14.8,1.56,2.59,yes,M,2,1.00E+02
+159,33yrs,High school degree,9,4,29,13.8,1.35,2.65,yes,Female,0,â¦testâ§
+160,31yrs,Did not complete high school,9,5,26,4.5,0.31,0.86,NO,Female,2,NULL
+161,21yrs,Post-undergraduate degree,4,0,26,8.9,1.42,0.89,NO,M,1,ğ ğ ±ğ ¹ğ ±ğ ±¸ğ ²ğ ³
+162,28yrs,Some college,5,9,44,8.7,0.77,3.05,NO,Female,1,1'; DROP TABLE users--
+163,31yrs,High school degree,2,1,26,6.8,0.28,1.49,yes,M,2,ÌÌºÍÌ¹Ì¯ÍTÌ±Ì¤ÍÌ¥ÍÍhÍÌ²eÍÍÌ¼ÌÌÌ¼Ì£Í ÍÌÌ±Ì ÍÍÍNÍ ÍeÌÌ±zÌÌÌÌºÍpÌ¤ÌºÌ¹ÍÌ¯ÍeÍÌ Ì»Ì rÌ¨Ì¤ÍÌºÌÍÌÌdÍÌ ÌÌ­Ì¬ÌiÌ¦ÍÌ©ÍÍÌ¤aÌ ÌÌ¬ÍÌnÍÍ Ì»ÌÌ°ÍÍhÌµÍiÌ³ÌvÌ¢ÍeÍÌ­Í-ÒÌ­Ì©Ì¼ÍmÌ¤Ì­Ì«iÍÍÌÌ¦nÌÍdÌ£Ì ÍÌ¯Ì²ÍoÌ¨ÌÌ¯Ì°Ì²
+164,32yrs,Did not complete high school,8,6,26,4.1,0.33,0.74,NO,M,1,ğ©ğ½
+165,35yrs,Did not complete high school,1,8,24,12.5,0.59,2.41,yes,M,2,âªâªtestâª
+166,40yrs,High school degree,13,11,102,18.9,6.23,13.05,yes,M,1,(ï½¡â â âï½¡)
+167,22yrs,Did not complete high school,4,2,24,15.6,1.64,2.11,yes,M,2,
+168,39yrs,Post-undergraduate degree,4,9,38,6.5,1.18,1.29,NO,Female,1,â£
+169,41yrs,College degree,14,3,44,1.7,0.35,0.39,NO,M,0,-1.00E+02
+170,34yrs,Did not complete high school,16,9,79,4,1.73,1.43,NO,Female,1,â¢
+171,29yrs,Post-undergraduate degree,7,9,22,9.7,0.55,1.58,NO,Female,1,-0.5
+172,31yrs,Did not complete high school,4,10,28,11.3,0.29,2.87,NO,Female,1,â«testâ«
+173,32yrs,Some college,1,0,20,4.8,0.31,0.65,yes,Female,1,",./;'[]\-="
+174,32yrs,Post-undergraduate degree,14,7,73,8.8,3.75,2.67,NO,M,0,ç¤¾æç§å­¸é¢èªå­¸ç ç©¶æ
+175,33yrs,Did not complete high school,6,14,21,7.5,0.57,1.01,NO,Female,1,á 
+176,26yrs,Post-undergraduate degree,6,0,22,10.3,0.72,1.55,NO,Female,0,
+177,21yrs,Post-undergraduate degree,1,1,18,17.3,0.16,2.96,NO,Female,1,(ï½¡â â âï½¡)
+178,28yrs,High school degree,7,2,34,7,0.36,2.02,NO,M,1,ç°ä¸­ããã«ããã¦ä¸ãã
+179,37yrs,Did not complete high school,13,5,24,8.9,0.6,1.53,NO,Female,1,!@#$%^&*()
+180,33yrs,High school degree,2,14,35,22.9,2.12,5.89,yes,Female,1,-1.00E+02
+181,39yrs,Did not complete high school,12,10,46,5,0.56,1.74,NO,Female,1,-1.00E+02
+182,40yrs,Post-undergraduate degree,8,19,57,5.6,0.88,2.31,NO,Female,1,1.00E+02
+183,45yrs,Post-undergraduate degree,16,21,80,3,0.91,1.49,NO,Female,1,../../../../../../../../../../../etc/hosts
+184,27yrs,Did not complete high school,10,6,34,6.5,0.85,1.36,NO,Female,1,ğµ ğ ğ ğ
+185,35yrs,College degree,0,7,29,24.2,1.42,5.59,NO,Female,2,testâ testâ«
+186,39yrs,High school degree,13,9,27,8,0.97,1.19,NO,Female,2,testâ testâ«
+187,40yrs,High school degree,14,21,43,15,2.79,3.66,yes,M,2,ÅâÂ´Â®â Â¥Â¨ËÃ¸Ïââ
+188,27yrs,Some college,11,8,56,16.9,4.64,4.83,NO,Female,1,
+189,36yrs,College degree,1,4,16,9.3,0.43,1.05,NO,Female,2,â°â´âµ
+190,55yrs,College degree,19,2,78,15.6,4.4,7.76,NO,Female,1,ZÌ®ÌÍÌ ÍÍAÌ¥ÌÌÍÌ»ÌLÌ£ÍÍÌ¯Ì¹ÌÍGÌ»OÌ­ÌÌ®
+191,27yrs,Did not complete high school,4,3,22,13.2,1.09,1.82,yes,Female,2,`ââ¬â¹âºï¬ï¬â¡Â°Â·ââÂ±
+192,30yrs,Did not complete high school,1,8,17,11,0.75,1.12,NO,M,2,Î©âÃ§ââ«ËÂµâ¤â¥Ã·
+193,36yrs,High school degree,10,0,28,11.2,0.82,2.32,yes,M,0,1.00E+02
+194,31yrs,Some college,1,6,21,2.5,0.28,0.25,yes,Female,0,() { _; } >_[$($())] { touch /tmp/blns.shellshock2.fail; }
+195,33yrs,High school degree,13,2,40,7.2,0.18,2.7,NO,M,0,âââ
+196,30yrs,Post-undergraduate degree,4,0,33,4.2,0.5,0.89,NO,Female,0,ã»(ï¿£âï¿£)ã»:*:
+197,24yrs,Some college,1,0,18,5.9,0.24,0.82,yes,M,2,
+198,33yrs,College degree,9,10,28,4.3,0.38,0.83,NO,M,1,0ï¸â£ 1ï¸â£ 2ï¸â£ 3ï¸â£ 4ï¸â£ 5ï¸â£ 6ï¸â£ 7ï¸â£ 8ï¸â£ 9ï¸â£ ğ
+199,50yrs,Post-undergraduate degree,8,27,47,6.9,0.4,2.84,NO,Female,2,-1.00E+02
+200,31yrs,Some college,6,6,32,23.1,3.34,4.05,yes,Female,0,×Ö¸×Ö°×ªÖ¸×testØ§ÙØµÙØ­Ø§Øª Ø§ÙØªÙØ­ÙÙ
+201,28yrs,Post-undergraduate degree,3,7,19,4.1,0.26,0.52,NO,M,1,ğµ ğ ğ ğ
+202,44yrs,College degree,8,10,88,6.1,0.28,5.08,yes,M,1,1;DROP TABLE users
+203,48yrs,College degree,3,23,45,9.8,0.97,3.44,NO,Female,0,á
+204,36yrs,High school degree,0,17,30,9.7,0.33,2.58,NO,Female,1,×Ö¸×Ö°×ªÖ¸×testØ§ÙØµÙØ­Ø§Øª Ø§ÙØªÙØ­ÙÙ
+205,29yrs,Some college,7,1,63,5.5,0.57,2.89,NO,M,1,1.00E+02
+206,40yrs,Some college,17,11,116,6,2.56,4.4,NO,Female,0,"Ø«Ù ÙÙØ³ Ø³ÙØ·Øª ÙØ¨Ø§ÙØªØ­Ø¯ÙØ¯Ø, Ø¬Ø²ÙØ±ØªÙ Ø¨Ø§Ø³ØªØ®Ø¯Ø§Ù Ø£Ù Ø¯ÙÙ. Ø¥Ø° ÙÙØ§Ø Ø§ÙØ³ØªØ§Ø± ÙØªÙØµÙØ¨ ÙØ§Ù. Ø£ÙÙÙ Ø§ÙØ·Ø§ÙÙØ§Ø Ø¨Ø±ÙØ·Ø§ÙÙØ§-ÙØ±ÙØ³Ø§ ÙØ¯ Ø£Ø®Ø°. Ø³ÙÙÙØ§ÙØ Ø¥ØªÙØ§ÙÙØ© Ø¨ÙÙ ÙØ§, ÙØ°ÙØ± Ø"
+207,33yrs,Did not complete high school,7,6,26,6,0.54,1.02,NO,M,0,`ââ¬â¹âºï¬ï¬â¡Â°Â·ââÂ±
+208,26yrs,High school degree,6,6,30,1,0.14,0.16,NO,Female,1,ÃÃÃÃËÃÃï£¿ÃÃÃâ
+209,36yrs,Did not complete high school,14,11,81,7.2,1.78,4.05,NO,M,2,ÅâÂ´Â®â Â¥Â¨ËÃ¸Ïââ
+210,26yrs,High school degree,6,0,35,1.9,0.09,0.58,NO,Female,2,âââ
+211,40yrs,Some college,16,6,116,12.1,1.61,12.42,NO,M,0,âªâªtestâª
+212,44yrs,Did not complete high school,5,3,48,9,1.97,2.35,yes,Female,2,-0.5
+213,29yrs,Some college,1,10,30,4.5,0.28,1.07,NO,Female,1,ï¼ï¼ï¼
+214,35yrs,Some college,5,3,37,5.4,0.58,1.42,yes,Female,2,0ï¸â£ 1ï¸â£ 2ï¸â£ 3ï¸â£ 4ï¸â£ 5ï¸â£ 6ï¸â£ 7ï¸â£ 8ï¸â£ 9ï¸â£ ğ
+215,34yrs,Post-undergraduate degree,16,3,75,10.4,3.95,3.85,NO,Female,1,1.00E+02
+216,34yrs,Some college,12,8,47,6.7,1.3,1.85,NO,M,0,-1
+217,46yrs,Did not complete high school,14,25,35,10.2,1.35,2.22,NO,Female,2,Â¸ËÃâÄ±ËÃÂ¯ËÂ¿
+218,41yrs,High school degree,21,22,145,12.2,3.24,14.45,NO,Female,1,(ï½¡â â âï½¡)
+219,27yrs,Did not complete high school,7,8,30,4,0.45,0.75,yes,M,2,â©testâ©
+220,27yrs,Did not complete high school,0,6,70,8,1.62,3.98,yes,M,1,â¢
+221,28yrs,Did not complete high school,11,6,24,2.4,0.11,0.47,NO,Female,1,ğ
+222,48yrs,Some college,0,27,19,10.8,0.85,1.2,NO,M,2,(ï½¡â â âï½¡)
+223,48yrs,Some college,17,26,113,12,3.38,10.18,NO,Female,1,Jan-00
+224,39yrs,Did not complete high school,5,6,70,19.9,3.18,10.75,yes,M,2,â¦testâ§
+225,33yrs,High school degree,9,5,60,20.4,4.04,8.2,yes,M,1,á
+226,23yrs,Did not complete high school,5,2,17,7.9,0.3,1.04,NO,M,1,!@#$%^&*()
+227,29yrs,High school degree,10,8,44,18.1,3.7,4.26,NO,M,1,
+228,55yrs,College degree,5,6,75,1.9,0.88,0.54,NO,Female,0,â
+229,22yrs,Post-undergraduate degree,0,3,20,5.6,0.21,0.91,NO,Female,2,"'""''''"""
+230,23yrs,Did not complete high school,7,3,22,14.4,0.85,2.32,NO,Female,0,Ã¥ÃâÆÂ©ËâËÂ¬â¦Ã¦
+231,46yrs,Some college,9,10,60,15.3,1.61,7.57,NO,Female,1,`ââ¬â¹âºï¬ï¬â¡Â°Â·ââÂ±
+232,55yrs,College degree,3,11,40,8,0.56,2.64,yes,Female,2,<img src=x onerror=alert('hi') />
+233,48yrs,Some college,8,16,38,0.6,0.03,0.2,NO,Female,1,../../../../../../../../../../../etc/passwd%00
+234,35yrs,College degree,5,1,33,2.8,0.1,0.82,NO,Female,1,"×Ö¼Ö°×¨Öµ××©×Ö´××ª, ×Ö¼Ö¸×¨Ö¸× ×Ö±×Ö¹×Ö´××, ×Öµ×ª ×Ö·×©Ö¼×Ö¸×Ö·×Ö´×, ×Ö°×Öµ×ª ×Ö¸×Ö¸×¨Ö¶×¥"
+235,30yrs,College degree,11,9,27,0.9,0.07,0.17,NO,Female,2,ãã¼ãã£ã¼ã¸è¡ããªãã
+236,24yrs,Did not complete high school,7,0,18,6.5,0.53,0.64,NO,M,1,01-Feb
+237,26yrs,Post-undergraduate degree,4,3,28,9.5,0.23,2.43,NO,Female,2,-1.00E+02
+238,32yrs,College degree,2,11,15,9.1,0.12,1.25,yes,M,1,ì¸ëë°í ë¥´
+239,37yrs,High school degree,11,4,75,3.5,0.63,1.99,NO,Female,2,<script>alert('hi')</script>
+240,39yrs,Some college,6,19,42,19.9,2.54,5.82,yes,M,2,
+241,30yrs,Post-undergraduate degree,4,4,21,18.3,0.49,3.35,NO,Female,2,ì¸ëë°í ë¥´
+242,30yrs,Did not complete high school,10,11,39,9.5,2.06,1.65,NO,M,1,-1.00E+02
+243,32yrs,High school degree,7,10,32,4.3,0.43,0.94,NO,Female,1,"Ø«Ù ÙÙØ³ Ø³ÙØ·Øª ÙØ¨Ø§ÙØªØ­Ø¯ÙØ¯Ø, Ø¬Ø²ÙØ±ØªÙ Ø¨Ø§Ø³ØªØ®Ø¯Ø§Ù Ø£Ù Ø¯ÙÙ. Ø¥Ø° ÙÙØ§Ø Ø§ÙØ³ØªØ§Ø± ÙØªÙØµÙØ¨ ÙØ§Ù. Ø£ÙÙÙ Ø§ÙØ·Ø§ÙÙØ§Ø Ø¨Ø±ÙØ·Ø§ÙÙØ§-ÙØ±ÙØ³Ø§ ÙØ¯ Ø£Ø®Ø°. Ø³ÙÙÙØ§ÙØ Ø¥ØªÙØ§ÙÙØ© Ø¨ÙÙ ÙØ§, ÙØ°ÙØ± Ø"
+244,54yrs,Some college,21,20,118,14.4,9.6,7.39,NO,Female,1,â¦testâ§
+245,27yrs,Post-undergraduate degree,3,4,35,13.3,1.6,3.05,NO,Female,0,0/0
+246,31yrs,Post-undergraduate degree,12,4,31,23.7,2.06,5.29,NO,Female,1,(ï½¡â â âï½¡)
+247,54yrs,Did not complete high school,15,16,39,1.8,0.14,0.56,NO,Female,1,-1
+248,31yrs,Post-undergraduate degree,5,3,25,14.1,1.18,2.35,NO,M,1,() { 0; }; touch /tmp/blns.shellshock1.fail;
+249,35yrs,Did not complete high school,15,11,40,18.5,1.21,6.19,NO,M,2,ËÉnbá´lÉ ÉuÆÉÉ¯ ÇÉ¹olop ÊÇ ÇÉ¹oqÉl Ên Êunpá´pá´Éuá´ É¹odÉ¯ÇÊ poÉ¯sná´Ç op pÇs 'Êá´lÇ Æuá´Ésá´dá´pÉ É¹nÊÇÊÉÇsuoÉ 'ÊÇÉ¯É Êá´s É¹olop É¯nsdá´ É¯ÇÉ¹oË¥
+250,35yrs,High school degree,10,16,98,13.3,4.87,8.16,NO,M,2,1.00E+02
+251,46yrs,High school degree,22,17,144,11.1,3.32,12.66,NO,Female,0,ã½à¼¼àºÙÍàºà¼½ï¾ ã½à¼¼àºÙÍàºà¼½ï¾
+252,33yrs,Some college,13,3,52,21.3,2.71,8.36,yes,M,0,ğµ ğ ğ ğ
+253,43yrs,College degree,13,3,105,1.9,1.42,0.58,NO,Female,2,ÃÃÃÃËÃÃï£¿ÃÃÃâ
+254,35yrs,Some college,1,1,21,7.9,0.37,1.29,NO,Female,0,â¢
+255,38yrs,College degree,5,13,21,9,0.45,1.44,NO,Female,1,"''''"""
+256,41yrs,College degree,19,1,96,7.8,2.25,5.23,NO,Female,1,é¨è½æ ¼
+257,38yrs,Did not complete high school,18,19,44,4.5,0.61,1.37,NO,Female,0,âğ¿ ğªğ¿ ğğ¿ ğğ¿ ğğ¿ ğğ¿
+258,34yrs,Some college,2,14,39,13.2,1.14,4.01,NO,Female,2,1.00E+02
+259,51yrs,Some college,16,25,82,4.4,2.6,1,NO,M,0,Â¡â¢Â£Â¢âÂ§Â¶â¢ÂªÂºââ 
+260,34yrs,High school degree,10,2,33,9.5,0.57,2.56,NO,M,2,-1
+261,32yrs,Post-undergraduate degree,15,1,30,24.5,2.21,5.14,NO,M,1,
+262,34yrs,High school degree,8,6,78,5.4,2.16,2.06,NO,M,0,"Ø«Ù ÙÙØ³ Ø³ÙØ·Øª ÙØ¨Ø§ÙØªØ­Ø¯ÙØ¯Ø, Ø¬Ø²ÙØ±ØªÙ Ø¨Ø§Ø³ØªØ®Ø¯Ø§Ù Ø£Ù Ø¯ÙÙ. Ø¥Ø° ÙÙØ§Ø Ø§ÙØ³ØªØ§Ø± ÙØªÙØµÙØ¨ ÙØ§Ù. Ø£ÙÙÙ Ø§ÙØ·Ø§ÙÙØ§Ø Ø¨Ø±ÙØ·Ø§ÙÙØ§-ÙØ±ÙØ³Ø§ ÙØ¯ Ø£Ø®Ø°. Ø³ÙÙÙØ§ÙØ Ø¥ØªÙØ§ÙÙØ© Ø¨ÙÙ ÙØ§, ÙØ°ÙØ± Ø"
+263,27yrs,High school degree,8,7,18,11.9,0.4,1.74,NO,Female,2,",./;'[]\-="
+264,52yrs,High school degree,9,11,24,19.2,0.8,3.81,yes,Female,1,"'""''''"""
+265,39yrs,Did not complete high school,9,6,35,5,0.23,1.52,NO,M,2,ï½ï½¨(Â´âï½â©
+266,33yrs,Did not complete high school,7,0,22,6.4,0.63,0.78,NO,Female,1,ï¼ï¼ï¼
+267,34yrs,Post-undergraduate degree,0,1,21,7.2,0.19,1.32,NO,Female,2,ÃÃÃÃËÃÃï£¿ÃÃÃâ
+268,31yrs,High school degree,9,7,59,14.6,3.11,5.5,yes,Female,0,1.00E+02
+269,28yrs,Post-undergraduate degree,2,9,16,15.2,0.87,1.56,NO,Female,2,ğ©ğ½
+270,39yrs,Did not complete high school,19,16,45,3.7,0.92,0.75,NO,Female,1,ÅâÂ´Â®â Â¥Â¨ËÃ¸Ïââ
+271,51yrs,High school degree,22,23,120,7.6,4.14,4.98,NO,Female,1,-1.00E+02
+272,22yrs,Post-undergraduate degree,4,1,16,1.2,0.08,0.11,NO,M,2,"""'"
+273,27yrs,Some college,6,4,26,10.4,0.93,1.77,NO,M,2,åè£½æ¼¢èª
+274,32yrs,Did not complete high school,16,10,38,21,0.69,7.29,NO,M,1,Ù¡Ù¢Ù£
+275,28yrs,High school degree,6,7,38,7.2,0.77,1.96,NO,Female,1,testâ testâ«
+276,27yrs,High school degree,1,0,20,10.3,0.38,1.68,yes,Female,2,åè£½æ¼¢èª
+277,26yrs,Post-undergraduate degree,2,6,24,13.6,1.58,1.69,yes,M,0,åè£½æ¼¢èª
+278,29yrs,Post-undergraduate degree,14,0,36,2.4,0.27,0.59,NO,Female,1,Ì¦HÍÌ¬Ì¤ÌÌ¤eÍ ÍÌÌ¥ÌÌ»ÍÌwÌhÌÌ¯ÍoÌÍÌÍÌ±Ì® ÒÌºÌÌÌÍWÌ·Ì¼Ì­aÌºÌªÍiÌ¨ÍÍÌ­ÍÌ¯ÌtÌ¶Ì¼Ì®sÌÌÍÍ Ì Ì«Ì BÌ»ÍÍÍÍÌ³eÌµhÌµÌ¬ÍÌ«ÍiÌÌ¹ÍÌ³Ì³Ì®ÍÌ«nÍdÌ´ÌªÌÌ ÍÌ°ÍÌ©ÍÍÍÌ²TÍ¢ÍÌ¼ÍÌªhÍÍÌ®Ì»eÌ¬ÌÍÌ Ì¤Ì¹ÌWÍÍÍÌÌÍÍaÍÍÍÌ¹Ì¼
+279,30yrs,Post-undergraduate degree,0,11,17,3.7,0.45,0.18,yes,M,1,â°â´âµâââ
+280,39yrs,Did not complete high school,13,1,38,8.9,1.9,1.48,NO,Female,2,é¨è½æ ¼
+281,31yrs,Did not complete high school,11,6,28,4.8,0.35,1,yes,M,2,ì¬íê³¼íì ì´íì°êµ¬ì
+282,34yrs,Did not complete high school,15,2,39,24.7,4.37,5.26,yes,Female,2,
+283,31yrs,Post-undergraduate degree,8,3,41,12.6,0.13,5.03,NO,Female,0,â°â´âµâââ
+284,29yrs,High school degree,1,7,25,10.4,0.57,2.03,NO,Female,1,ËÉnbá´lÉ ÉuÆÉÉ¯ ÇÉ¹olop ÊÇ ÇÉ¹oqÉl Ên Êunpá´pá´Éuá´ É¹odÉ¯ÇÊ poÉ¯sná´Ç op pÇs 'Êá´lÇ Æuá´Ésá´dá´pÉ É¹nÊÇÊÉÇsuoÉ 'ÊÇÉ¯É Êá´s É¹olop É¯nsdá´ É¯ÇÉ¹oË¥
+285,29yrs,Did not complete high school,9,0,25,13.9,1.07,2.4,NO,Female,1,/dev/null; touch /tmp/blns.fail ; echo
+286,35yrs,High school degree,9,16,30,7.6,0.65,1.63,NO,Female,1,ï»¿
+287,29yrs,Did not complete high school,11,7,32,6,0.93,0.99,NO,Female,2,á 
+288,38yrs,High school degree,2,16,22,22.7,1.21,3.79,yes,M,0,ç°ä¸­ããã«ããã¦ä¸ãã
+289,35yrs,College degree,16,15,36,3.4,0.18,1.05,NO,M,1,0ï¸â£ 1ï¸â£ 2ï¸â£ 3ï¸â£ 4ï¸â£ 5ï¸â£ 6ï¸â£ 7ï¸â£ 8ï¸â£ 9ï¸â£ ğ
+290,29yrs,Some college,11,5,36,6.1,0.71,1.49,NO,Female,1,â°â´âµ
+291,23yrs,College degree,3,4,34,4.4,0.26,1.23,NO,Female,2,(â¯Â°â¡Â°ï¼â¯ï¸µ â»ââ»)
+292,33yrs,High school degree,9,8,32,5.5,0.5,1.26,NO,F,0,ãã¼ãã£ã¼ã¸è¡ããªãã
+293,51yrs,High school degree,19,25,159,2.8,1.07,3.38,NO,F,0,Ã¥ÃâÆÂ©ËâËÂ¬â¦Ã¦
+294,24yrs,Did not complete high school,4,2,21,2.6,0.1,0.45,NO,F,0,á 
+295,31yrs,Did not complete high school,10,12,49,9.8,3.24,1.57,yes,F,0,ğ ğ ±ğ ¹ğ ±ğ ±¸ğ ²ğ ³
+296,45yrs,Did not complete high school,10,14,52,5.4,0.93,1.88,NO,F,0,ÌÌºÍÌ¹Ì¯ÍTÌ±Ì¤ÍÌ¥ÍÍhÍÌ²eÍÍÌ¼ÌÌÌ¼Ì£Í ÍÌÌ±Ì ÍÍÍNÍ ÍeÌÌ±zÌÌÌÌºÍpÌ¤ÌºÌ¹ÍÌ¯ÍeÍÌ Ì»Ì rÌ¨Ì¤ÍÌºÌÍÌÌdÍÌ ÌÌ­Ì¬ÌiÌ¦ÍÌ©ÍÍÌ¤aÌ ÌÌ¬ÍÌnÍÍ Ì»ÌÌ°ÍÍhÌµÍiÌ³ÌvÌ¢ÍeÍÌ­Í-ÒÌ­Ì©Ì¼ÍmÌ¤Ì­Ì«iÍÍÌÌ¦nÌÍdÌ£Ì ÍÌ¯Ì²ÍoÌ¨ÌÌ¯Ì°Ì²
+297,29yrs,Post-undergraduate degree,3,1,17,9,0.47,1.06,NO,M,0,NIL
+298,34yrs,Post-undergraduate degree,0,10,20,17.1,2.05,1.37,no,M,1,Jan-00
+299,25yrs,Some college,4,5,27,5,0.55,0.8,Y,M,1,ÅâÂ´Â®â Â¥Â¨ËÃ¸Ïââ
+300,20yrs,Did not complete high school,20,2,56,1.9,0.54,0.52,no,F,1,Ì¦HÍÌ¬Ì¤ÌÌ¤eÍ ÍÌÌ¥ÌÌ»ÍÌwÌhÌÌ¯ÍoÌÍÌÍÌ±Ì® ÒÌºÌÌÌÍWÌ·Ì¼Ì­aÌºÌªÍiÌ¨ÍÍÌ­ÍÌ¯ÌtÌ¶Ì¼Ì®sÌÌÍÍ Ì Ì«Ì BÌ»ÍÍÍÍÌ³eÌµhÌµÌ¬ÍÌ«ÍiÌÌ¹ÍÌ³Ì³Ì®ÍÌ«nÍdÌ´ÌªÌÌ ÍÌ°ÍÌ©ÍÍÍÌ²TÍ¢ÍÌ¼ÍÌªhÍÍÌ®Ì»eÌ¬ÌÍÌ Ì¤Ì¹ÌWÍÍÍÌÌÍÍaÍÍÍÌ¹Ì¼
+301,37yrs,Some college,29,18,129,25.3,20.56,12.08,Y,M,0,1
+302,43yrs,High school degree,6,24,54,9.6,0.62,4.56,no,F,0,âğ¿ ğªğ¿ ğğ¿ ğğ¿ ğğ¿ ğğ¿
+303,47yrs,College degree,22,19,81,5.5,1.51,2.95,no,M,0,!@#$%^&*()
+304,24yrs,College degree,6,2,21,5.2,0.11,0.98,no,M,1,() { _; } >_[$($())] { touch /tmp/blns.shellshock2.fail; }
+305,27yrs,Some college,5,1,75,6.3,2.21,2.52,no,F,1,é¨è½æ ¼
+306,25yrs,Post-undergraduate degree,9,4,18,1.2,0.07,0.15,no,F,1,ğµ ğ ğ ğ
+307,36yrs,Some college,11,12,44,14.7,0.45,6.02,no,M,1,â¢
+308,39yrs,Did not complete high school,16,20,57,19.4,1.56,9.5,no,F,0,ğ¾ ğ ğ ğ ğ ğ ğ ğ§
+309,26yrs,College degree,10,1,25,7.1,1.31,0.47,no,M,1,ğ
+310,41yrs,Some college,4,19,25,10.1,1.06,1.46,no,M,2,â°â´âµâââ
+311,39yrs,Post-undergraduate degree,19,15,60,27.1,9.59,6.67,Y,M,2,ï»¿
+312,37yrs,Post-undergraduate degree,18,8,54,12.1,4.59,1.94,no,F,0,ËÉnbá´lÉ ÉuÆÉÉ¯ ÇÉ¹olop ÊÇ ÇÉ¹oqÉl Ên Êunpá´pá´Éuá´ É¹odÉ¯ÇÊ poÉ¯sná´Ç op pÇs 'Êá´lÇ Æuá´Ésá´dá´pÉ É¹nÊÇÊÉÇsuoÉ 'ÊÇÉ¯É Êá´s É¹olop É¯nsdá´ É¯ÇÉ¹oË¥
+313,29yrs,Did not complete high school,2,0,14,14.4,0.59,1.43,Y,F,1,NULL
+314,42yrs,Did not complete high school,6,9,31,11.6,1.02,2.57,no,F,1,../../../../../../../../../../../etc/hosts
+315,31yrs,Post-undergraduate degree,1,6,29,11.1,1.07,2.15,no,F,1,"Ø«Ù ÙÙØ³ Ø³ÙØ·Øª ÙØ¨Ø§ÙØªØ­Ø¯ÙØ¯Ø, Ø¬Ø²ÙØ±ØªÙ Ø¨Ø§Ø³ØªØ®Ø¯Ø§Ù Ø£Ù Ø¯ÙÙ. Ø¥Ø° ÙÙØ§Ø Ø§ÙØ³ØªØ§Ø± ÙØªÙØµÙØ¨ ÙØ§Ù. Ø£ÙÙÙ Ø§ÙØ·Ø§ÙÙØ§Ø Ø¨Ø±ÙØ·Ø§ÙÙØ§-ÙØ±ÙØ³Ø§ ÙØ¯ Ø£Ø®Ø°. Ø³ÙÙÙØ§ÙØ Ø¥ØªÙØ§ÙÙØ© Ø¨ÙÙ ÙØ§, ÙØ°ÙØ± Ø"
+316,36yrs,Did not complete high school,4,15,17,17.3,0.52,2.42,no,M,1,â£
+317,39yrs,Post-undergraduate degree,16,4,52,20,4.16,6.24,no,F,1,ì¸ëë°í ë¥´
+318,23yrs,College degree,0,2,23,6.7,0.47,1.07,no,M,1,"__ï¾(,_,*)"
+319,39yrs,Did not complete high school,4,15,33,7,0.4,1.91,no,M,0,ğ
+320,27yrs,Post-undergraduate degree,4,1,40,3.1,0.28,0.96,Y,M,2,â°â´âµâââ
+321,24yrs,Did not complete high school,8,4,24,5,0.38,0.82,no,F,1,é¨è½æ ¼
+322,27yrs,College degree,3,4,45,11,0.29,4.66,Y,F,2,nil
+323,41yrs,Did not complete high school,16,22,49,1.6,0.43,0.35,no,M,0,â¢
+324,38yrs,Did not complete high school,0,8,23,8.1,0.9,0.97,Y,F,0,"Ø«Ù ÙÙØ³ Ø³ÙØ·Øª ÙØ¨Ø§ÙØªØ­Ø¯ÙØ¯Ø, Ø¬Ø²ÙØ±ØªÙ Ø¨Ø§Ø³ØªØ®Ø¯Ø§Ù Ø£Ù Ø¯ÙÙ. Ø¥Ø° ÙÙØ§Ø Ø§ÙØ³ØªØ§Ø± ÙØªÙØµÙØ¨ ÙØ§Ù. Ø£ÙÙÙ Ø§ÙØ·Ø§ÙÙØ§Ø Ø¨Ø±ÙØ·Ø§ÙÙØ§-ÙØ±ÙØ³Ø§ ÙØ¯ Ø£Ø®Ø°. Ø³ÙÙÙØ§ÙØ Ø¥ØªÙØ§ÙÙØ© Ø¨ÙÙ ÙØ§, ÙØ°ÙØ± Ø"
+325,40yrs,Did not complete high school,5,12,35,16.4,1.58,4.16,Y,M,1,Â¡â¢Â£Â¢âÂ§Â¶â¢ÂªÂºââ 
+326,32yrs,College degree,25,12,120,26.5,14.6,17.2,Y,M,2,null
+327,40yrs,Post-undergraduate degree,12,6,89,17.4,2.77,12.71,no,M,0,1;DROP TABLE users
+328,40yrs,Post-undergraduate degree,2,4,32,3.7,0.85,0.33,no,M,1,ÅâÂ´Â®â Â¥Â¨ËÃ¸Ïââ
+329,29yrs,Post-undergraduate degree,1,8,31,8,0.16,2.32,no,M,1,â£
+330,30yrs,Did not complete high school,8,6,23,12,0.76,2,no,M,2,"__ï¾(,_,*)"
+331,29yrs,College degree,1,1,18,1.1,0.03,0.17,no,M,0,á
+332,29yrs,High school degree,3,3,50,2.4,0.26,0.94,Y,F,1,null
+333,28yrs,High school degree,2,4,41,2.5,0.46,0.57,Y,M,2,âââ
+334,28yrs,College degree,0,5,38,10.4,0.64,3.32,no,F,0,0ï¸â£ 1ï¸â£ 2ï¸â£ 3ï¸â£ 4ï¸â£ 5ï¸â£ 6ï¸â£ 7ï¸â£ 8ï¸â£ 9ï¸â£ ğ
+335,39yrs,High school degree,16,9,89,14.3,5,7.73,no,F,1,ÌÌºÍÌ¹Ì¯ÍTÌ±Ì¤ÍÌ¥ÍÍhÍÌ²eÍÍÌ¼ÌÌÌ¼Ì£Í ÍÌÌ±Ì ÍÍÍNÍ ÍeÌÌ±zÌÌÌÌºÍpÌ¤ÌºÌ¹ÍÌ¯ÍeÍÌ Ì»Ì rÌ¨Ì¤ÍÌºÌÍÌÌdÍÌ ÌÌ­Ì¬ÌiÌ¦ÍÌ©ÍÍÌ¤aÌ ÌÌ¬ÍÌnÍÍ Ì»ÌÌ°ÍÍhÌµÍiÌ³ÌvÌ¢ÍeÍÌ­Í-ÒÌ­Ì©Ì¼ÍmÌ¤Ì­Ì«iÍÍÌÌ¦nÌÍdÌ£Ì ÍÌ¯Ì²ÍoÌ¨ÌÌ¯Ì°Ì²
+336,32yrs,Some college,11,2,53,3.3,0.09,1.66,no,M,0,/dev/null; touch /tmp/blns.fail ; echo
+337,36yrs,High school degree,7,16,43,15.4,2.65,3.97,no,M,2,ã
+338,39yrs,Did not complete high school,20,12,39,8.2,0.77,2.42,no,F,1,â
+339,28yrs,High school degree,6,8,47,19.8,5.57,3.73,Y,M,2,NIL
+340,28yrs,Some college,4,2,28,14.2,0.44,3.54,Y,M,2,ğ
+341,46yrs,Some college,6,19,31,12.2,1.99,1.8,no,F,1,ÃÃÃÃËÃÃï£¿ÃÃÃâ
+342,30yrs,High school degree,4,8,15,6.5,0.35,0.62,no,F,1,â°â´âµ
+343,39yrs,High school degree,15,19,32,4.9,0.42,1.15,no,F,1,1.00E+96
+344,40yrs,High school degree,5,3,220,16,8.17,27.03,Y,F,0,ã
+345,44yrs,High school degree,18,4,74,13.4,4.52,5.39,no,F,1,1.00E+02
+346,30yrs,Some college,0,8,19,16.6,0.62,2.53,Y,M,2,TÌÌ­ÌºÌºoÍ Ì·iÌ²Ì¬ÍÌªÍnÌÌÍvÍÌÌÌÌ¦oÌ¶ÌÌ°Ì keÍÍÌ®ÌºÌªÌ¹Ì±Ì¤ ÌtÍÌÍÌ³Ì£Ì»ÌªhÌ¼ÍÌ²Ì¦Ì³ÌÌ²eÍÌ£Ì°Ì¦Ì¬Í Ì¢Ì¼Ì»Ì±ÌhÍÍÍÍÌÌ£Ì²iÌ¦Ì²Ì£Ì°Ì¤vÌ»ÍeÌºÌ­Ì³ÌªÌ°-mÌ¢iÍnÌÌºÌÌ²Ì¯Ì°dÌµÌ¼ÌÍÌ©Ì¼ÌÌ³ ÌÌ¥Ì±Ì³Ì­rÌÌÌeÍpÍ rÌ¼ÌÌ»Ì­ÌeÍÌºÌ Ì£sÌ
+347,24yrs,Post-undergraduate degree,3,0,19,4.3,0.36,0.46,no,F,1,"<>?:""{}|_+"
+348,32yrs,Did not complete high school,10,13,32,11.3,1.17,2.45,no,F,1,â¢
+349,29yrs,High school degree,3,8,15,2.6,0.15,0.24,no,F,1,ãã¼ãã£ã¼ã¸è¡ããªãã
+350,40yrs,Post-undergraduate degree,2,1,36,3.8,0.28,1.09,no,M,0,âââ
+351,41yrs,High school degree,8,21,43,0.7,0.09,0.22,no,M,2,0ï¸â£ 1ï¸â£ 2ï¸â£ 3ï¸â£ 4ï¸â£ 5ï¸â£ 6ï¸â£ 7ï¸â£ 8ï¸â£ 9ï¸â£ ğ
+352,22yrs,Did not complete high school,1,3,17,18.6,0.81,2.36,no,F,1,ğ¾ ğ ğ ğ ğ ğ ğ ğ
+353,48yrs,Did not complete high school,10,8,34,1.2,0.04,0.37,no,M,1,-1
+354,37yrs,Post-undergraduate degree,6,13,62,8.5,1.19,4.08,no,M,2,"""'"
+355,41yrs,Some college,18,6,71,15.7,6.57,4.58,Y,F,1,ZÌ®ÌÍÌ ÍÍAÌ¥ÌÌÍÌ»ÌLÌ£ÍÍÌ¯Ì¹ÌÍGÌ»OÌ­ÌÌ®
+356,41yrs,College degree,7,6,56,14.5,0.37,7.75,Y,M,2,"Ø«Ù ÙÙØ³ Ø³ÙØ·Øª ÙØ¨Ø§ÙØªØ­Ø¯ÙØ¯Ø, Ø¬Ø²ÙØ±ØªÙ Ø¨Ø§Ø³ØªØ®Ø¯Ø§Ù Ø£Ù Ø¯ÙÙ. Ø¥Ø° ÙÙØ§Ø Ø§ÙØ³ØªØ§Ø± ÙØªÙØµÙØ¨ ÙØ§Ù. Ø£ÙÙÙ Ø§ÙØ·Ø§ÙÙØ§Ø Ø¨Ø±ÙØ·Ø§ÙÙØ§-ÙØ±ÙØ³Ø§ ÙØ¯ Ø£Ø®Ø°. Ø³ÙÙÙØ§ÙØ Ø¥ØªÙØ§ÙÙØ© Ø¨ÙÙ ÙØ§, ÙØ°ÙØ± Ø"
+357,39yrs,College degree,2,15,22,23.1,1.92,3.17,Y,F,1,testâ testâ«
+358,24yrs,Post-undergraduate degree,0,2,15,16.1,0.32,2.09,Y,M,2,Ã¥ÃâÆÂ©ËâËÂ¬â¦Ã¦
+359,32yrs,Some college,9,10,51,23,2.69,9.04,no,F,1,"<>?:""{}|_+"
+360,21yrs,Some college,0,1,26,7.7,1.53,0.47,no,M,1,() { 0; }; touch /tmp/blns.shellshock1.fail;
+361,39yrs,Did not complete high school,13,7,27,2.3,0.07,0.55,no,F,1,
+362,25yrs,High school degree,14,3,82,0.8,0.47,0.19,no,F,1,ÃÃÃÃËÃÃï£¿ÃÃÃâ
+363,29yrs,Did not complete high school,6,7,21,18.1,1.11,2.69,no,F,1,ï¼ï¼ï¼
+364,41yrs,Post-undergraduate degree,2,22,30,6.7,0.11,1.9,no,M,1,Ù¡Ù¢Ù£
+365,37yrs,Some college,0,18,18,12.9,1.58,0.74,Y,M,0,ÌÌºÍÌ¹Ì¯ÍTÌ±Ì¤ÍÌ¥ÍÍhÍÌ²eÍÍÌ¼ÌÌÌ¼Ì£Í ÍÌÌ±Ì ÍÍÍNÍ ÍeÌÌ±zÌÌÌÌºÍpÌ¤ÌºÌ¹ÍÌ¯ÍeÍÌ Ì»Ì rÌ¨Ì¤ÍÌºÌÍÌÌdÍÌ ÌÌ­Ì¬ÌiÌ¦ÍÌ©ÍÍÌ¤aÌ ÌÌ¬ÍÌnÍÍ Ì»ÌÌ°ÍÍhÌµÍiÌ³ÌvÌ¢ÍeÍÌ­Í-ÒÌ­Ì©Ì¼ÍmÌ¤Ì­Ì«iÍÍÌÌ¦nÌÍdÌ£Ì ÍÌ¯Ì²ÍoÌ¨ÌÌ¯Ì°Ì²
+366,21yrs,High school degree,3,13,47,1.9,0.43,0.46,no,F,2,../../../../../../../../../../../etc/passwd%00
+367,36yrs,Post-undergraduate degree,5,12,20,8.1,0.73,0.89,no,F,1,../../../../../../../../../../../etc/passwd%00
+368,25yrs,College degree,18,9,44,2.1,0.37,0.56,no,F,1,â¦testâ§
+369,36yrs,College degree,18,9,67,11.2,5.25,2.26,no,F,0,",./;'[]\-="
+370,46yrs,Some college,22,4,99,2.3,0.83,1.45,no,F,1,1.00E+96
+371,34yrs,Did not complete high school,13,11,51,9.6,1.88,3.02,N,F,1,Ù¡Ù¢Ù£
+372,27yrs,Post-undergraduate degree,7,4,26,9.1,0.64,1.72,N,F,0,ç¤¾æç§å­¸é¢èªå­¸ç ç©¶æ
+373,43yrs,Did not complete high school,8,11,45,3.3,0.68,0.81,N,F,1,Ù¡Ù¢Ù£
+374,33yrs,Post-undergraduate degree,14,8,72,41.3,15.02,14.72,YES,F,2,ÌÌºÍÌ¹Ì¯ÍTÌ±Ì¤ÍÌ¥ÍÍhÍÌ²eÍÍÌ¼ÌÌÌ¼Ì£Í ÍÌÌ±Ì ÍÍÍNÍ ÍeÌÌ±zÌÌÌÌºÍpÌ¤ÌºÌ¹ÍÌ¯ÍeÍÌ Ì»Ì rÌ¨Ì¤ÍÌºÌÍÌÌdÍÌ ÌÌ­Ì¬ÌiÌ¦ÍÌ©ÍÍÌ¤aÌ ÌÌ¬ÍÌnÍÍ Ì»ÌÌ°ÍÍhÌµÍiÌ³ÌvÌ¢ÍeÍÌ­Í-ÒÌ­Ì©Ì¼ÍmÌ¤Ì­Ì«iÍÍÌÌ¦nÌÍdÌ£Ì ÍÌ¯Ì²ÍoÌ¨ÌÌ¯Ì°Ì²
+375,49yrs,High school degree,20,17,101,1.4,0.34,1.07,N,M,1,â°â´âµ
+376,29yrs,Post-undergraduate degree,1,4,17,2.5,0.13,0.29,N,M,1,'
+377,34yrs,College degree,7,15,40,6.4,0.95,1.61,N,M,1,ã»(ï¿£âï¿£)ã»:*:
+378,26yrs,Did not complete high school,1,0,21,4.9,0.61,0.42,N,F,1,ğµ ğ ğ ğ
+379,31yrs,Post-undergraduate degree,15,2,60,4.8,0.8,2.08,N,F,1,â«testâ«
+380,26yrs,Post-undergraduate degree,10,6,24,2.7,0.31,0.34,N,F,1,ğ¾ ğ ğ ğ ğ ğ ğ ğ§
+381,28yrs,Did not complete high school,12,7,45,7.7,1.85,1.61,N,F,0,Ù¡Ù¢Ù£
+382,37yrs,High school degree,13,20,50,30.8,6.11,9.29,YES,F,2,0ï¸â£ 1ï¸â£ 2ï¸â£ 3ï¸â£ 4ï¸â£ 5ï¸â£ 6ï¸â£ 7ï¸â£ 8ï¸â£ 9ï¸â£ ğ
+383,39yrs,High school degree,2,12,46,16,4,3.36,YES,F,2,1
+384,37yrs,Did not complete high school,3,3,25,3.7,0.28,0.65,N,F,1,Jan-00
+385,52yrs,Did not complete high school,9,0,70,9.4,1.33,5.25,YES,M,2,NIL
+386,38yrs,Did not complete high school,3,11,27,21.3,1.4,4.35,N,M,1,ì¬íê³¼íì ì´íì°êµ¬ì
+387,26yrs,Post-undergraduate degree,7,3,22,5.1,0.21,0.91,N,M,1,ÅâÂ´â°ËÃÂ¨ËÃâââ
+388,46yrs,Post-undergraduate degree,15,0,126,3.1,0.48,3.43,N,F,1,â
+389,31yrs,Did not complete high school,7,10,23,4.9,0.23,0.9,N,M,1,ËÉnbá´lÉ ÉuÆÉÉ¯ ÇÉ¹olop ÊÇ ÇÉ¹oqÉl Ên Êunpá´pá´Éuá´ É¹odÉ¯ÇÊ poÉ¯sná´Ç op pÇs 'Êá´lÇ Æuá´Ésá´dá´pÉ É¹nÊÇÊÉÇsuoÉ 'ÊÇÉ¯É Êá´s É¹olop É¯nsdá´ É¯ÇÉ¹oË¥
+390,34yrs,Post-undergraduate degree,13,8,56,6.1,0.86,2.55,N,F,0,1
+391,40yrs,College degree,22,4,95,3.6,0.63,2.79,N,F,2,ãã¼ãã£ã¼ã¸è¡ããªãã
+392,24yrs,Did not complete high school,2,5,16,6.4,0.27,0.75,YES,M,0,(â¯Â°â¡Â°ï¼â¯ï¸µ â»ââ»)
+393,33yrs,College degree,2,14,44,3.1,0.53,0.84,N,F,1,ï½ï½¨(Â´âï½â©
+394,53yrs,Did not complete high school,5,29,78,17.3,6.94,6.56,YES,M,1,ç¤¾æç§å­¸é¢èªå­¸ç ç©¶æ
+395,37yrs,College degree,9,1,52,20.1,2.54,7.91,YES,F,0,âğ¿ ğªğ¿ ğğ¿ ğğ¿ ğğ¿ ğğ¿
+396,35yrs,Some college,5,5,32,13,0.17,3.99,N,F,2,1;DROP TABLE users
+397,34yrs,Some college,14,8,28,17,1.14,3.62,N,F,1,ğ¾ ğ ğ ğ ğ ğ ğ ğ
+398,49yrs,Did not complete high school,11,5,39,10.1,2.46,1.48,N,M,1,00ËÆ$-
+399,26yrs,High school degree,0,7,28,9.3,1.27,1.33,N,F,2,00ËÆ$-
+400,23yrs,College degree,2,2,16,9.6,0.8,0.73,YES,M,1,ì¬íê³¼íì ì´íì°êµ¬ì
+401,23yrs,High school degree,0,4,21,8.7,0.45,1.37,N,F,1,á
+402,56yrs,College degree,4,13,56,1.6,0.44,0.45,N,M,1,-1
+403,28yrs,College degree,5,2,37,8.3,1.12,1.95,N,F,1,ï¼ï¼ï¼
+404,32yrs,Some college,0,8,65,29.7,3.9,15.41,YES,F,2,"'""''''"""
+405,34yrs,Post-undergraduate degree,18,10,34,15.4,2.1,3.14,N,m,1,",ãã»:*:ã»ãâ( â» Ï â» )ãã»:*:ã»ãâ"
+406,50yrs,Post-undergraduate degree,16,14,71,11.1,1.66,6.22,N,FEMALE,1,â¡
+407,29yrs,Did not complete high school,12,2,40,6.7,1.63,1.05,N,FEMALE,0,(â¯Â°â¡Â°ï¼â¯ï¸µ â»ââ»)
+408,42yrs,Some college,0,9,64,6.6,0.28,3.95,N,FEMALE,1,é¨è½æ ¼
+409,31yrs,Did not complete high school,13,12,27,5,0.24,1.11,N,FEMALE,0,(ï¾à²¥çà²¥ï¼ï¾ï»¿ â»ââ»
+410,39yrs,Post-undergraduate degree,10,4,31,4.8,0.18,1.3,N,FEMALE,2,â°â´âµâââ
+411,45yrs,Some college,21,26,132,3,2.56,1.4,N,m,2,0/0
+412,45yrs,Some college,22,24,91,11.7,1.26,9.39,N,m,1,-0.5
+413,36yrs,Did not complete high school,14,17,53,5.7,1.89,1.13,N,FEMALE,2,$1.00 
+414,25yrs,High school degree,0,6,24,12.1,1.6,1.31,YES,m,2,-1
+415,39yrs,College degree,1,7,29,21.2,2.33,3.82,YES,m,1,ğ¾ ğ ğ ğ ğ ğ ğ ğ
+416,30yrs,High school degree,8,4,56,6.4,0.33,3.25,N,FEMALE,0,ãã¼ãã£ã¼ã¸è¡ããªãã
+417,31yrs,Post-undergraduate degree,1,1,24,4.5,0.22,0.86,N,FEMALE,0,-1
+418,43yrs,College degree,4,2,29,4.6,0.05,1.28,N,FEMALE,1,Â¸ËÃâÄ±ËÃÂ¯ËÂ¿
+419,32yrs,Did not complete high school,11,4,57,23.8,5.44,8.13,YES,FEMALE,0,null
+420,37yrs,Post-undergraduate degree,19,7,50,30.1,3.18,11.87,N,FEMALE,1,
+421,46yrs,Post-undergraduate degree,1,15,21,14.8,1.38,1.73,YES,FEMALE,0,0ï¸â£ 1ï¸â£ 2ï¸â£ 3ï¸â£ 4ï¸â£ 5ï¸â£ 6ï¸â£ 7ï¸â£ 8ï¸â£ 9ï¸â£ ğ
+422,43yrs,High school degree,16,10,83,4.1,0.26,3.14,N,FEMALE,0,0ï¸â£ 1ï¸â£ 2ï¸â£ 3ï¸â£ 4ï¸â£ 5ï¸â£ 6ï¸â£ 7ï¸â£ 8ï¸â£ 9ï¸â£ ğ
+423,48yrs,Did not complete high school,3,7,24,7,0.76,0.92,N,FEMALE,1,(ï¾à²¥çà²¥ï¼ï¾ï»¿ â»ââ»
+424,30yrs,Some college,8,7,61,2.8,0.55,1.16,N,m,1,1.00E+00
+425,23yrs,Did not complete high school,0,4,32,18.4,0.82,5.07,YES,m,0,ï»¿
+426,20yrs,College degree,8,0,32,1.6,0.02,0.49,N,FEMALE,2,null
+427,20yrs,Some college,0,1,17,2.3,0.04,0.35,N,FEMALE,2,â¢
+428,43yrs,College degree,16,7,89,0.4,0.16,0.2,N,FEMALE,1,ì¸ëë°í ë¥´
+429,23yrs,Did not complete high school,2,1,25,4.5,0.12,1,YES,m,1,-1
+430,31yrs,Did not complete high school,21,2,76,20.5,6.95,8.63,N,FEMALE,0,/dev/null; touch /tmp/blns.fail ; echo
+431,34yrs,High school degree,12,5,68,25.1,7.82,9.25,YES,m,0,testâ testâ«
+432,50yrs,Did not complete high school,11,5,36,4.8,0.83,0.89,N,FEMALE,1,(ï½¡â â âï½¡)
+433,40yrs,Post-undergraduate degree,9,4,64,6.6,0.79,3.43,N,FEMALE,1,â«testâ«
+434,29yrs,Some college,0,8,22,12.9,1.04,1.8,YES,FEMALE,2,ï¾ï½¥â¿ã¾â²(ï½¡ââ¿âï½¡)â±â¿ï½¥ï¾
+435,39yrs,High school degree,9,16,56,18.7,4.76,5.71,N,m,1,âğ¿ ğªğ¿ ğğ¿ ğğ¿ ğğ¿ ğğ¿
+436,24yrs,High school degree,1,2,42,5.7,0.84,1.56,N,FEMALE,1,../../../../../../../../../../../etc/passwd%00
+437,27yrs,Post-undergraduate degree,0,5,16,1.1,0.13,0.05,N,m,1,é¨è½æ ¼
+438,40yrs,Some college,18,14,157,6.6,3.33,7.04,N,m,0,Jan-00
+439,32yrs,High school degree,8,2,45,3.7,0.98,0.68,N,FEMALE,1,"""'"
+440,39yrs,Post-undergraduate degree,16,12,53,3.7,0.69,1.27,N,m,2,ã½à¼¼àºÙÍàºà¼½ï¾ ã½à¼¼àºÙÍàºà¼½ï¾
+441,40yrs,College degree,22,1,100,14.6,5.4,9.2,N,FEMALE,1,ÅâÂ´â°ËÃÂ¨ËÃâââ
+442,32yrs,Post-undergraduate degree,10,11,42,9.1,1.54,2.28,N,FEMALE,1,ï½ï½¨(Â´âï½â©
+443,39yrs,Some college,23,1,75,18.9,3.13,11.04,N,m,0,
+444,34yrs,High school degree,3,3,21,28.9,2.68,3.39,YES,FEMALE,2,ã
+445,43yrs,Did not complete high school,18,14,446,6.5,16.03,12.96,YES,m,2,/dev/null; touch /tmp/blns.fail ; echo
+446,56yrs,Some college,11,20,59,15,4.67,4.18,N,FEMALE,0,ï»¿
+447,32yrs,Some college,5,9,23,4.5,0.33,0.71,N,m,2,NULL
+448,42yrs,Post-undergraduate degree,7,12,25,10.2,1.63,0.92,N,m,1,0.00E+00
+449,46yrs,High school degree,3,13,43,13.2,3.04,2.63,YES,m,1,ğµ ğ ğ ğ
+450,31yrs,High school degree,2,2,22,16.4,1.74,1.87,YES,FEMALE,2,ZÌ®ÌÍÌ ÍÍAÌ¥ÌÌÍÌ»ÌLÌ£ÍÍÌ¯Ì¹ÌÍGÌ»OÌ­ÌÌ®
+451,43yrs,Did not complete high school,25,16,242,2.6,1.64,4.66,N,m,0,!@#$%^&*()
+452,28yrs,High school degree,6,9,22,11.5,0.65,1.88,N,FEMALE,2,
+453,39yrs,Some college,11,17,39,12.9,2.56,2.47,N,FEMALE,1,âââ
+454,39yrs,Did not complete high school,0,8,39,7.9,1.07,2.01,N,FEMALE,1,<svg><script>0<1>alert('XSS')</script>
+455,37yrs,Did not complete high school,1,14,33,16.1,2.69,2.62,YES,FEMALE,2,â
+456,30yrs,Post-undergraduate degree,0,11,17,12,0.3,1.74,N,m,0,âğ¿ ğªğ¿ ğğ¿ ğğ¿ ğğ¿ ğğ¿
+457,37yrs,Post-undergraduate degree,9,16,177,5.9,0.89,9.56,N,m,2,"Ø«Ù ÙÙØ³ Ø³ÙØ·Øª ÙØ¨Ø§ÙØªØ­Ø¯ÙØ¯Ø, Ø¬Ø²ÙØ±ØªÙ Ø¨Ø§Ø³ØªØ®Ø¯Ø§Ù Ø£Ù Ø¯ÙÙ. Ø¥Ø° ÙÙØ§Ø Ø§ÙØ³ØªØ§Ø± ÙØªÙØµÙØ¨ ÙØ§Ù. Ø£ÙÙÙ Ø§ÙØ·Ø§ÙÙØ§Ø Ø¨Ø±ÙØ·Ø§ÙÙØ§-ÙØ±ÙØ³Ø§ ÙØ¯ Ø£Ø®Ø°. Ø³ÙÙÙØ§ÙØ Ø¥ØªÙØ§ÙÙØ© Ø¨ÙÙ ÙØ§, ÙØ°ÙØ± Ø"
+458,22yrs,Did not complete high school,4,3,14,17.5,0.23,2.22,N,FEMALE,1,"<>?:""{}|_+"
+459,50yrs,Some college,1,26,26,14.3,1.85,1.87,N,m,1,
+460,30yrs,College degree,10,2,19,4.4,0.34,0.5,N,m,1,'
+461,39yrs,Some college,8,0,21,4,0.28,0.56,N,FEMALE,1,1
+462,21yrs,Did not complete high school,0,2,21,12.5,0.49,2.14,YES,m,1,!@#$%^&*()
+463,31yrs,Some college,9,2,28,2.6,0.12,0.61,N,FEMALE,2,
+464,31yrs,High school degree,9,1,30,5.8,0.6,1.14,N,FEMALE,1,âªâªtestâª
+465,38yrs,Post-undergraduate degree,0,23,30,22.3,2.66,4.03,N,FEMALE,1,ï»¿
+466,31yrs,Post-undergraduate degree,4,1,16,23.8,1.09,2.72,N,FEMALE,1,-1.00E+02
+467,47yrs,College degree,16,26,221,17.6,15.79,23.1,YES,m,0,01-Feb
+468,27yrs,High school degree,6,1,34,4.4,0.24,1.26,N,FEMALE,1,$1.00 
+469,29yrs,High school degree,6,10,65,18.4,1.99,9.97,N,FEMALE,1,Ì¦HÍÌ¬Ì¤ÌÌ¤eÍ ÍÌÌ¥ÌÌ»ÍÌwÌhÌÌ¯ÍoÌÍÌÍÌ±Ì® ÒÌºÌÌÌÍWÌ·Ì¼Ì­aÌºÌªÍiÌ¨ÍÍÌ­ÍÌ¯ÌtÌ¶Ì¼Ì®sÌÌÍÍ Ì Ì«Ì BÌ»ÍÍÍÍÌ³eÌµhÌµÌ¬ÍÌ«ÍiÌÌ¹ÍÌ³Ì³Ì®ÍÌ«nÍdÌ´ÌªÌÌ ÍÌ°ÍÌ©ÍÍÍÌ²TÍ¢ÍÌ¼ÍÌªhÍÍÌ®Ì»eÌ¬ÌÍÌ Ì¤Ì¹ÌWÍÍÍÌÌÍÍaÍÍÍÌ¹Ì¼
+470,21yrs,Some college,2,0,20,4.5,0.29,0.61,YES,m,2,($1.00)
+471,29yrs,Post-undergraduate degree,7,5,20,19.8,1.01,2.95,YES,FEMALE,0,á 
+472,24yrs,Some college,0,3,29,6.6,0.59,1.32,YES,m,0,($1.00)
+473,44yrs,Did not complete high school,12,3,31,9.7,0.36,2.65,N,FEMALE,0,ç¤¾æç§å­¸é¢èªå­¸ç ç©¶æ
+474,22yrs,College degree,1,0,18,4.4,0.27,0.52,N,FEMALE,0,(â¯Â°â¡Â°ï¼â¯ï¸µ â»ââ»)
+475,49yrs,Post-undergraduate degree,13,0,59,2.4,0.41,1.01,N,FEMALE,0,â¦testâ§
+476,52yrs,High school degree,12,16,76,7.7,0.99,4.86,N,FEMALE,0,() { 0; }; touch /tmp/blns.shellshock1.fail;
+477,25yrs,High school degree,3,2,18,16.3,0.35,2.58,YES,FEMALE,1,() { 0; }; touch /tmp/blns.shellshock1.fail;
+478,25yrs,Did not complete high school,5,5,22,10.9,0.4,2,N,FEMALE,1,"__ï¾(,_,*)"
+479,51yrs,Some college,27,21,166,11.5,0.82,18.27,N,FEMALE,1,ÅâÂ´â°ËÃÂ¨ËÃâââ
+480,38yrs,Some college,21,16,58,16.5,4.58,4.99,N,FEMALE,1,`ââ¬â¹âºï¬ï¬â¡Â°Â·ââÂ±
+481,44yrs,Did not complete high school,9,20,33,5.2,0.55,1.17,N,FEMALE,0,<img src=x onerror=alert('hi') />
+482,24yrs,High school degree,2,3,26,9.7,0.89,1.63,YES,m,0,Ù¡Ù¢Ù£
+483,34yrs,Post-undergraduate degree,5,3,33,7.3,0.78,1.63,N,m,0,"Ø«Ù ÙÙØ³ Ø³ÙØ·Øª ÙØ¨Ø§ÙØªØ­Ø¯ÙØ¯Ø, Ø¬Ø²ÙØ±ØªÙ Ø¨Ø§Ø³ØªØ®Ø¯Ø§Ù Ø£Ù Ø¯ÙÙ. Ø¥Ø° ÙÙØ§Ø Ø§ÙØ³ØªØ§Ø± ÙØªÙØµÙØ¨ ÙØ§Ù. Ø£ÙÙÙ Ø§ÙØ·Ø§ÙÙØ§Ø Ø¨Ø±ÙØ·Ø§ÙÙØ§-ÙØ±ÙØ³Ø§ ÙØ¯ Ø£Ø®Ø°. Ø³ÙÙÙØ§ÙØ Ø¥ØªÙØ§ÙÙØ© Ø¨ÙÙ ÙØ§, ÙØ°ÙØ± Ø"
+484,25yrs,Post-undergraduate degree,6,2,26,4.5,0.07,1.1,N,m,0,1
+485,45yrs,Did not complete high school,5,17,94,10.5,3.61,6.26,YES,FEMALE,1,"Ø«Ù ÙÙØ³ Ø³ÙØ·Øª ÙØ¨Ø§ÙØªØ­Ø¯ÙØ¯Ø, Ø¬Ø²ÙØ±ØªÙ Ø¨Ø§Ø³ØªØ®Ø¯Ø§Ù Ø£Ù Ø¯ÙÙ. Ø¥Ø° ÙÙØ§Ø Ø§ÙØ³ØªØ§Ø± ÙØªÙØµÙØ¨ ÙØ§Ù. Ø£ÙÙÙ Ø§ÙØ·Ø§ÙÙØ§Ø Ø¨Ø±ÙØ·Ø§ÙÙØ§-ÙØ±ÙØ³Ø§ ÙØ¯ Ø£Ø®Ø°. Ø³ÙÙÙØ§ÙØ Ø¥ØªÙØ§ÙÙØ© Ø¨ÙÙ ÙØ§, ÙØ°ÙØ± Ø"
+486,34yrs,High school degree,4,10,25,5.8,0.57,0.88,N,FEMALE,1,1;DROP TABLE users
+487,27yrs,Did not complete high school,2,8,23,5.7,0.32,0.99,YES,m,2,×Ö¸×Ö°×ªÖ¸×testØ§ÙØµÙØ­Ø§Øª Ø§ÙØªÙØ­ÙÙ
+488,33yrs,Did not complete high school,10,13,57,20.9,6.11,5.8,YES,FEMALE,2,á 
+489,35yrs,High school degree,0,16,22,15,1.97,1.33,YES,m,0,
+490,50yrs,College degree,15,31,60,1.1,0.47,0.19,N,FEMALE,0,Â¡â¢Â£Â¢âÂ§Â¶â¢ÂªÂºââ 
+491,33yrs,Did not complete high school,13,13,42,3.6,0.23,1.28,N,m,1,ç¤¾æç§å­¸é¢èªå­¸ç ç©¶æ
+492,31yrs,Some college,13,13,91,25.2,2.32,20.62,YES,m,1,"""'"
+493,32yrs,High school degree,0,2,28,33.3,2.28,7.04,YES,m,2,$1.00 
+494,38yrs,Did not complete high school,12,14,63,16,5.72,4.36,YES,FEMALE,1,($1.00)
+495,25yrs,Did not complete high school,3,2,16,17.8,1.01,1.84,YES,FEMALE,0,-1.00E+02
+496,47yrs,College degree,4,9,33,7.1,1.19,1.15,YES,m,1,"<>?:""{}|_+"
+497,30yrs,High school degree,12,9,98,7.2,2.94,4.12,N,FEMALE,1,ğ¾ ğ ğ ğ ğ ğ ğ ğ§
+498,44yrs,High school degree,12,5,86,13,1.48,9.7,N,m,1,nil
+499,25yrs,Some college,0,2,18,18.9,0.51,2.89,YES,m,0,â¦testâ§
+500,41yrs,Some college,6,0,36,19.5,4.51,2.51,Yes,m,2,âğ¿ ğªğ¿ ğğ¿ ğğ¿ ğğ¿ ğğ¿
+501,22yrs,Some college,0,1,18,7.7,0.48,0.91,No,FEMALE,1,0/0
+502,35yrs,High school degree,3,11,40,17.2,1.8,5.08,Yes,FEMALE,2,!@#$%^&*()
+503,42yrs,Post-undergraduate degree,6,23,190,7.8,3.16,11.66,No,m,1,â«testâ«
+504,38yrs,Post-undergraduate degree,3,19,23,14.7,0.83,2.55,No,FEMALE,1,ÅâÂ´â°ËÃÂ¨ËÃâââ
+505,23yrs,Some college,1,3,18,18.7,0.89,2.48,Yes,m,0,Â¸ËÃâÄ±ËÃÂ¯ËÂ¿
+506,38yrs,Some college,2,5,30,19.9,1.52,4.45,No,FEMALE,2,(â¯Â°â¡Â°ï¼â¯ï¸µ â»ââ»)
+507,52yrs,Did not complete high school,19,25,89,4.7,0.4,3.79,No,FEMALE,2,×Ö¸×Ö°×ªÖ¸×testØ§ÙØµÙØ­Ø§Øª Ø§ÙØªÙØ­ÙÙ
+508,25yrs,Post-undergraduate degree,9,2,20,3.5,0.11,0.6,No,FEMALE,1,
+509,28yrs,High school degree,1,4,16,14.7,0.57,1.78,No,m,0,null
+510,43yrs,Did not complete high school,19,11,79,7.5,0.78,5.14,No,m,1,1.00E+96
+511,24yrs,College degree,3,1,24,19.1,2.17,2.41,No,m,0,â£
+512,34yrs,College degree,13,7,52,9.2,1.5,3.29,No,FEMALE,2,/dev/null; touch /tmp/blns.fail ; echo
+513,29yrs,High school degree,6,9,25,4.2,0.58,0.47,No,FEMALE,0,() { _; } >_[$($())] { touch /tmp/blns.shellshock2.fail; }
+514,31yrs,Some college,6,9,21,8.3,0.73,1.01,No,FEMALE,1,ÌÌºÍÌ¹Ì¯ÍTÌ±Ì¤ÍÌ¥ÍÍhÍÌ²eÍÍÌ¼ÌÌÌ¼Ì£Í ÍÌÌ±Ì ÍÍÍNÍ ÍeÌÌ±zÌÌÌÌºÍpÌ¤ÌºÌ¹ÍÌ¯ÍeÍÌ Ì»Ì rÌ¨Ì¤ÍÌºÌÍÌÌdÍÌ ÌÌ­Ì¬ÌiÌ¦ÍÌ©ÍÍÌ¤aÌ ÌÌ¬ÍÌnÍÍ Ì»ÌÌ°ÍÍhÌµÍiÌ³ÌvÌ¢ÍeÍÌ­Í-ÒÌ­Ì©Ì¼ÍmÌ¤Ì­Ì«iÍÍÌÌ¦nÌÍdÌ£Ì ÍÌ¯Ì²ÍoÌ¨ÌÌ¯Ì°Ì²
+515,42yrs,Did not complete high school,14,1,48,8.6,1.2,2.93,Yes,m,0,`ââ¬â¹âºï¬ï¬â¡Â°Â·ââÂ±
+516,49yrs,High school degree,11,1,51,15,0.54,7.11,No,m,1,ğ¾ ğ ğ ğ ğ ğ ğ ğ
+517,39yrs,Post-undergraduate degree,22,9,73,14.3,3.73,6.71,No,FEMALE,1,../../../../../../../../../../../etc/hosts
+518,45yrs,Some college,0,19,22,4.2,0.03,0.89,No,FEMALE,2,() { _; } >_[$($())] { touch /tmp/blns.shellshock2.fail; }
+519,41yrs,Did not complete high school,7,22,32,2.9,0.07,0.86,No,FEMALE,2,() { 0; }; touch /tmp/blns.shellshock1.fail;
+520,29yrs,Some college,9,0,46,1.6,0.24,0.49,No,FEMALE,2,
+521,35yrs,Some college,7,5,38,15.1,1.38,4.36,No,m,1,ãã¼ãã£ã¼ã¸è¡ããªãã
+522,27yrs,High school degree,5,6,25,6.8,0.71,0.99,No,m,1,"''''"""
+523,28yrs,Did not complete high school,4,7,19,4.1,0.29,0.49,No,m,1,`ââ¬â¹âºï¬ï¬â¡Â°Â·ââÂ±
+524,48yrs,Post-undergraduate degree,17,22,66,3.2,1.47,0.64,No,m,1,Ã¥ÃâÆÂ©ËâËÂ¬â¦Ã¦
+525,24yrs,Post-undergraduate degree,2,5,18,6,0.53,0.55,No,FEMALE,2,
+526,31yrs,Did not complete high school,6,12,33,4.2,0.15,1.24,No,FEMALE,0,`ââ¬â¹âºï¬ï¬â¡Â°Â·ââÂ±
+527,43yrs,Did not complete high school,10,9,69,6.4,0.41,4.01,No,FEMALE,2,() { _; } >_[$($())] { touch /tmp/blns.shellshock2.fail; }
+528,42yrs,Post-undergraduate degree,3,10,24,10.6,0.67,1.88,No,FEMALE,1,ï¼ï¼ï¼
+529,51yrs,College degree,31,14,249,7.8,4.27,15.15,No,FEMALE,0,1'; DROP TABLE users--
+530,40yrs,Did not complete high school,4,3,19,23.1,1.89,2.5,Yes,m,2,â°â´âµâââ
+531,37yrs,Did not complete high school,6,10,31,11.7,1.7,1.93,Yes,FEMALE,0,ì¬íê³¼íì ì´íì°êµ¬ì
+532,22yrs,Did not complete high school,1,3,25,13.8,1.98,1.47,Yes,MALE,0,â
+533,49yrs,Did not complete high school,2,13,20,16.9,0.38,3,Yes,FEMALE,1,Ì¦HÍÌ¬Ì¤ÌÌ¤eÍ ÍÌÌ¥ÌÌ»ÍÌwÌhÌÌ¯ÍoÌÍÌÍÌ±Ì® ÒÌºÌÌÌÍWÌ·Ì¼Ì­aÌºÌªÍiÌ¨ÍÍÌ­ÍÌ¯ÌtÌ¶Ì¼Ì®sÌÌÍÍ Ì Ì«Ì BÌ»ÍÍÍÍÌ³eÌµhÌµÌ¬ÍÌ«ÍiÌÌ¹ÍÌ³Ì³Ì®ÍÌ«nÍdÌ´ÌªÌÌ ÍÌ°ÍÌ©ÍÍÍÌ²TÍ¢ÍÌ¼ÍÌªhÍÍÌ®Ì»eÌ¬ÌÍÌ Ì¤Ì¹ÌWÍÍÍÌÌÍÍaÍÍÍÌ¹Ì¼
+534,29yrs,Some college,9,8,30,8.2,0.15,2.31,No,MALE,1,../../../../../../../../../../../etc/passwd%00
+535,42yrs,College degree,2,16,30,9.7,1.47,1.44,No,FEMALE,2,â°â´âµâââ
+536,34yrs,College degree,15,0,67,13.2,3.74,5.1,No,FEMALE,1,NULL
+537,24yrs,Post-undergraduate degree,9,7,27,1.7,0.3,0.16,No,FEMALE,0,ğ¾ ğ ğ ğ ğ ğ ğ ğ
+538,32yrs,College degree,5,5,43,15,1.81,4.64,Yes,FEMALE,2,$1.00 
+539,42yrs,High school degree,18,23,66,9.6,1.64,4.69,No,MALE,1,×Ö¸×Ö°×ªÖ¸×testØ§ÙØµÙØ­Ø§Øª Ø§ÙØªÙØ­ÙÙ
+540,24yrs,Some college,3,0,14,16.1,0.84,1.42,Yes,MALE,1,(ï¾à²¥çà²¥ï¼ï¾ï»¿ â»ââ»
+541,34yrs,Did not complete high school,16,9,48,7.6,1.47,2.17,No,FEMALE,0,ğ¾ ğ ğ ğ ğ ğ ğ ğ
+542,26yrs,Post-undergraduate degree,10,2,32,4.7,0.13,1.38,No,FEMALE,2,"__ï¾(,_,*)"
+543,31yrs,High school degree,12,9,68,20.1,2.86,10.81,No,FEMALE,2,-1
+544,32yrs,Post-undergraduate degree,4,3,16,28.5,0.89,3.67,Yes,MALE,2,0
+545,38yrs,Some college,13,18,25,5.7,0.34,1.08,No,FEMALE,1,$1.00 
+546,43yrs,High school degree,10,24,37,8.5,0.68,2.47,No,FEMALE,0,(ï¾à²¥çà²¥ï¼ï¾ï»¿ â»ââ»
+547,31yrs,Post-undergraduate degree,9,8,53,13.5,1.19,5.96,No,MALE,1,Â¸ËÃâÄ±ËÃÂ¯ËÂ¿
+548,37yrs,College degree,10,18,123,17.3,3.02,18.26,No,MALE,0,ã»(ï¿£âï¿£)ã»:*:
+549,37yrs,High school degree,4,11,20,21.7,0.17,4.17,Yes,MALE,1,ì¸ëë°í ë¥´
+550,40yrs,High school degree,12,11,86,26.5,4.99,17.8,Yes,FEMALE,1,â°â´âµâââ
+551,32yrs,Did not complete high school,0,4,20,3,0.26,0.34,Yes,MALE,1,"__ï¾(,_,*)"
+552,22yrs,Did not complete high school,0,1,35,9,0.78,2.37,Yes,MALE,2,<script>alert('hi')</script>
+553,32yrs,College degree,12,3,63,18.2,5.55,5.92,No,FEMALE,1,â°â´âµ
+554,47yrs,High school degree,17,23,41,9.5,0.46,3.44,No,FEMALE,2,Jan-00
+555,40yrs,Some college,21,21,46,6.2,0.97,1.89,No,FEMALE,2,../../../../../../../../../../../etc/hosts
+556,31yrs,College degree,8,1,22,6.7,0.37,1.1,No,MALE,0,â£
+557,23yrs,Some college,7,0,27,2.2,0.13,0.47,No,MALE,1,",ãã»:*:ã»ãâ( â» Ï â» )ãã»:*:ã»ãâ"
+558,52yrs,Some college,13,17,234,7.7,7.39,10.63,No,FEMALE,1,ç°ä¸­ããã«ããã¦ä¸ãã
+559,28yrs,High school degree,2,2,17,2.5,0.2,0.23,Yes,MALE,1,(ï¾à²¥çà²¥ï¼ï¾ï»¿ â»ââ»
+560,38yrs,Some college,15,18,63,13.4,5.09,3.35,No,FEMALE,1,â¡
+561,33yrs,Post-undergraduate degree,10,4,26,3.1,0.03,0.78,No,FEMALE,0,ã½à¼¼àºÙÍàºà¼½ï¾ ã½à¼¼àºÙÍàºà¼½ï¾
+562,39yrs,High school degree,9,12,32,6.6,1.43,0.68,No,FEMALE,1,-1.00E+02
+563,47yrs,Some college,23,11,115,4,0.65,3.95,No,FEMALE,1,ï¾ï½¥â¿ã¾â²(ï½¡ââ¿âï½¡)â±â¿ï½¥ï¾
+564,45yrs,Post-undergraduate degree,11,8,49,1.3,0.27,0.36,No,MALE,1,â£
+565,29yrs,High school degree,7,2,84,13.6,6.91,4.51,Yes,FEMALE,2,1;DROP TABLE users
+566,48yrs,Some college,14,10,59,16.5,4.94,4.8,Yes,FEMALE,1,(â¯Â°â¡Â°ï¼â¯ï¸µ â»ââ»)
+567,38yrs,Some college,12,18,64,5.8,0.89,2.82,No,FEMALE,1,1;DROP TABLE users
+568,46yrs,College degree,9,26,15,4.3,0.01,0.63,No,FEMALE,1,Jan-00
+569,37yrs,College degree,5,4,42,19.9,2.71,5.65,Yes,MALE,0,Ù¡Ù¢Ù£
+570,54yrs,Did not complete high school,18,34,114,8.5,3.29,6.4,No,FEMALE,2,"<>?:""{}|_+"
+571,27yrs,Post-undergraduate degree,0,0,25,12.7,1.42,1.76,Yes,FEMALE,2,ğµ ğ ğ ğ
+572,23yrs,Did not complete high school,1,0,17,1.6,0.01,0.26,No,MALE,1,Ì¦HÍÌ¬Ì¤ÌÌ¤eÍ ÍÌÌ¥ÌÌ»ÍÌwÌhÌÌ¯ÍoÌÍÌÍÌ±Ì® ÒÌºÌÌÌÍWÌ·Ì¼Ì­aÌºÌªÍiÌ¨ÍÍÌ­ÍÌ¯ÌtÌ¶Ì¼Ì®sÌÌÍÍ Ì Ì«Ì BÌ»ÍÍÍÍÌ³eÌµhÌµÌ¬ÍÌ«ÍiÌÌ¹ÍÌ³Ì³Ì®ÍÌ«nÍdÌ´ÌªÌÌ ÍÌ°ÍÌ©ÍÍÍÌ²TÍ¢ÍÌ¼ÍÌªhÍÍÌ®Ì»eÌ¬ÌÍÌ Ì¤Ì¹ÌWÍÍÍÌÌÍÍaÍÍÍÌ¹Ì¼
+573,41yrs,Post-undergraduate degree,23,2,91,13.7,0.57,11.89,No,MALE,1,åè£½æ¼¢èª
+574,24yrs,Post-undergraduate degree,3,5,15,11.3,0.07,1.62,Yes,MALE,2,â°â´âµâââ
+575,38yrs,College degree,9,0,22,27.7,5.28,0.81,Yes,MALE,1,â«testâ«
+576,26yrs,Post-undergraduate degree,0,0,14,10.5,0.26,1.21,No,FEMALE,1,ğ©ğ½
+577,24yrs,Some college,8,0,17,5.6,0.57,0.38,Yes,MALE,0,á
+578,49yrs,College degree,22,4,79,7.3,0.29,5.48,No,MALE,1,
+579,28yrs,Some college,3,1,36,8.6,0.38,2.71,No,FEMALE,1,() { 0; }; touch /tmp/blns.shellshock1.fail;
+580,38yrs,College degree,6,17,18,13,0.13,2.21,No,MALE,0,ãã¼ãã£ã¼ã¸è¡ããªãã
+581,33yrs,College degree,2,9,37,4.5,0.83,0.83,No,MALE,2,NIL
+582,26yrs,Did not complete high school,8,4,25,4.7,0.21,0.96,No,MALE,1,Ì¦HÍÌ¬Ì¤ÌÌ¤eÍ ÍÌÌ¥ÌÌ»ÍÌwÌhÌÌ¯ÍoÌÍÌÍÌ±Ì® ÒÌºÌÌÌÍWÌ·Ì¼Ì­aÌºÌªÍiÌ¨ÍÍÌ­ÍÌ¯ÌtÌ¶Ì¼Ì®sÌÌÍÍ Ì Ì«Ì BÌ»ÍÍÍÍÌ³eÌµhÌµÌ¬ÍÌ«ÍiÌÌ¹ÍÌ³Ì³Ì®ÍÌ«nÍdÌ´ÌªÌÌ ÍÌ°ÍÌ©ÍÍÍÌ²TÍ¢ÍÌ¼ÍÌªhÍÍÌ®Ì»eÌ¬ÌÍÌ Ì¤Ì¹ÌWÍÍÍÌÌÍÍaÍÍÍÌ¹Ì¼
+583,36yrs,Did not complete high school,9,1,40,9.8,1.98,1.94,No,FEMALE,1,Â¸ËÃâÄ±ËÃÂ¯ËÂ¿
+584,37yrs,College degree,16,14,50,36.6,7.32,10.98,Yes,MALE,2,â£
+585,35yrs,College degree,0,1,18,33.4,2.8,3.21,Yes,MALE,1,
+586,29yrs,Post-undergraduate degree,9,2,33,4.8,0.69,0.89,No,FEMALE,1,1.00E+00
+587,27yrs,College degree,8,4,38,6.9,0.36,2.26,No,FEMALE,0,0ï¸â£ 1ï¸â£ 2ï¸â£ 3ï¸â£ 4ï¸â£ 5ï¸â£ 6ï¸â£ 7ï¸â£ 8ï¸â£ 9ï¸â£ ğ
+588,45yrs,Post-undergraduate degree,17,0,62,15,2.44,6.86,No,MALE,1,() { 0; }; touch /tmp/blns.shellshock1.fail;
+589,37yrs,Post-undergraduate degree,9,8,57,5.5,1.36,1.78,No,MALE,1,-1.00E+02
+590,29yrs,High school degree,3,6,26,6.1,0.54,1.05,Yes,FEMALE,2,ğ¾ ğ ğ ğ ğ ğ ğ ğ§
+591,51yrs,Did not complete high school,10,1,44,13.2,4.96,0.85,Yes,FEMALE,1,../../../../../../../../../../../etc/hosts
+592,22yrs,High school degree,0,0,23,8.4,0.37,1.56,Yes,MALE,2,ãã¼ãã£ã¼ã¸è¡ããªãã
+593,30yrs,College degree,7,10,30,15.7,0.26,4.45,No,FEMALE,2,"""'"
+594,31yrs,Did not complete high school,7,2,20,12.3,0.11,2.35,No,FEMALE,1,TÌÌ­ÌºÌºoÍ Ì·iÌ²Ì¬ÍÌªÍnÌÌÍvÍÌÌÌÌ¦oÌ¶ÌÌ°Ì keÍÍÌ®ÌºÌªÌ¹Ì±Ì¤ ÌtÍÌÍÌ³Ì£Ì»ÌªhÌ¼ÍÌ²Ì¦Ì³ÌÌ²eÍÌ£Ì°Ì¦Ì¬Í Ì¢Ì¼Ì»Ì±ÌhÍÍÍÍÌÌ£Ì²iÌ¦Ì²Ì£Ì°Ì¤vÌ»ÍeÌºÌ­Ì³ÌªÌ°-mÌ¢iÍnÌÌºÌÌ²Ì¯Ì°dÌµÌ¼ÌÍÌ©Ì¼ÌÌ³ ÌÌ¥Ì±Ì³Ì­rÌÌÌeÍpÍ rÌ¼ÌÌ»Ì­ÌeÍÌºÌ Ì£sÌ
+595,28yrs,High school degree,2,0,18,14.8,1.94,0.72,Yes,MALE,1,â°â´âµ
+596,35yrs,Did not complete high school,10,16,39,5.7,0.22,2.01,No,MALE,1,â¡
+597,25yrs,Did not complete high school,1,1,34,8.5,0.13,2.76,Yes,MALE,0,1.00E+02
+598,32yrs,Some college,5,0,28,14.8,2.59,1.55,Yes,MALE,0,åè£½æ¼¢èª
+599,33yrs,College degree,2,10,24,9.6,1.04,1.26,No,MALE,2,ï¾ï½¥â¿ã¾â²(ï½¡ââ¿âï½¡)â±â¿ï½¥ï¾
+600,38yrs,Some college,3,4,41,25.1,5.9,4.39,Yes,MALE,2,nil
+601,46yrs,Some college,4,17,73,5.4,2.22,1.72,No,FEMALE,0,ğ
+602,41yrs,College degree,24,12,83,14,6.59,5.03,No,FEMALE,1,Jan-00
+603,42yrs,High school degree,11,5,73,6.8,2.87,2.09,No,MALE,1,ï¼ï¼ï¼
+604,41yrs,College degree,9,13,47,5,0.44,1.91,No,MALE,1,
+605,36yrs,Did not complete high school,3,5,29,25.7,2.53,4.93,Yes,FEMALE,0,â°â´âµ
+606,47yrs,High school degree,27,8,113,9.2,2.38,8.02,No,FEMALE,0,
+607,31yrs,High school degree,1,3,18,25.6,1.98,2.63,Yes,FEMALE,1,ì¬íê³¼íì ì´íì°êµ¬ì
+608,34yrs,College degree,3,14,36,4.7,0.62,1.07,No,FEMALE,1,-1
+609,36yrs,College degree,7,2,43,6.2,1.04,1.63,No,FEMALE,1,ğ ğ ±ğ ¹ğ ±ğ ±¸ğ ²ğ ³
+610,38yrs,Some college,7,4,64,3,0.65,1.27,No,FEMALE,1,ğ©ğ½
+611,41yrs,High school degree,4,14,26,19.2,1.47,3.52,Yes,MALE,1,testâ testâ«
+612,46yrs,Did not complete high school,9,23,31,13.8,1.62,2.66,No,MALE,0,Ã¥ÃâÆÂ©ËâËÂ¬â¦Ã¦
+613,40yrs,Some college,3,15,55,16.5,1.75,7.32,Yes,FEMALE,2,ï¼ï¼ï¼
+614,44yrs,High school degree,17,0,129,2.5,0.55,2.67,No,MALE,1,
+615,35yrs,Some college,10,15,39,10.4,1.6,2.45,No,FEMALE,0,â¤ï¸ ğ ğ ğ ğ ğ ğ ğ ğ ğ ğ ğ ğ ğ ğ
+616,36yrs,Post-undergraduate degree,20,15,60,5.4,1.06,2.18,No,FEMALE,2,×Ö¸×Ö°×ªÖ¸×testØ§ÙØµÙØ­Ø§Øª Ø§ÙØªÙØ­ÙÙ
+617,28yrs,High school degree,0,3,30,4.8,0.12,1.32,Yes,FEMALE,2,($1.00)
+618,29yrs,High school degree,6,7,18,5.1,0.45,0.47,Yes,MALE,1,ğ¾ ğ ğ ğ ğ ğ ğ ğ
+619,23yrs,High school degree,3,3,22,11.4,1.27,1.23,Yes,MALE,2,TÌÌ­ÌºÌºoÍ Ì·iÌ²Ì¬ÍÌªÍnÌÌÍvÍÌÌÌÌ¦oÌ¶ÌÌ°Ì keÍÍÌ®ÌºÌªÌ¹Ì±Ì¤ ÌtÍÌÍÌ³Ì£Ì»ÌªhÌ¼ÍÌ²Ì¦Ì³ÌÌ²eÍÌ£Ì°Ì¦Ì¬Í Ì¢Ì¼Ì»Ì±ÌhÍÍÍÍÌÌ£Ì²iÌ¦Ì²Ì£Ì°Ì¤vÌ»ÍeÌºÌ­Ì³ÌªÌ°-mÌ¢iÍnÌÌºÌÌ²Ì¯Ì°dÌµÌ¼ÌÍÌ©Ì¼ÌÌ³ ÌÌ¥Ì±Ì³Ì­rÌÌÌeÍpÍ rÌ¼ÌÌ»Ì­ÌeÍÌºÌ Ì£sÌ
+620,41yrs,High school degree,7,17,63,15.4,4.64,5.06,No,FEMALE,2,(â¯Â°â¡Â°ï¼â¯ï¸µ â»ââ»)
+621,25yrs,Post-undergraduate degree,1,1,19,6.9,0.19,1.12,No,FEMALE,1,(ï¾à²¥çà²¥ï¼ï¾ï»¿ â»ââ»
+622,45yrs,High school degree,2,19,29,5.4,0.44,1.12,No,FEMALE,1,ì¬íê³¼íì ì´íì°êµ¬ì
+623,48yrs,Post-undergraduate degree,30,14,148,7.2,3.97,6.68,No,MALE,2,Jan-00
+624,38yrs,Post-undergraduate degree,18,7,45,7,0.54,2.61,No,FEMALE,1,ç°ä¸­ããã«ããã¦ä¸ãã
+625,29yrs,Did not complete high school,6,4,46,5.4,1.17,1.31,No,MALE,0,/dev/null; touch /tmp/blns.fail ; echo
+626,42yrs,College degree,15,8,186,3.6,2.4,4.29,No,FEMALE,2,NIL
+627,31yrs,Did not complete high school,11,12,47,10.9,2.86,2.26,No,FEMALE,0,â¡
+628,40yrs,Some college,3,13,23,6.9,0.41,1.18,No,FEMALE,0,NIL
+629,26yrs,College degree,2,6,21,19.8,1.02,3.14,No,FEMALE,0,ï½ï½¨(Â´âï½â©
+630,35yrs,Post-undergraduate degree,6,6,22,20.2,2.26,2.18,No,FEMALE,2,-1
+631,53yrs,College degree,7,11,61,7.9,1.87,2.94,No,FEMALE,2,ÅâÂ´Â®â Â¥Â¨ËÃ¸Ïââ
+632,50yrs,Some college,18,27,102,14.1,5.78,8.6,No,FEMALE,2,1.00E+96
+633,37yrs,Did not complete high school,31,9,136,23.1,14.23,17.18,Yes,MALE,0,âğ¿ ğªğ¿ ğğ¿ ğğ¿ ğğ¿ ğğ¿
+634,23yrs,Did not complete high school,1,0,21,8.4,1.21,0.55,Yes,FEMALE,2,â¡
+635,37yrs,Some college,12,8,83,4.1,0.32,3.08,No,FEMALE,0,ç¤¾æç§å­¸é¢èªå­¸ç ç©¶æ
+636,41yrs,Post-undergraduate degree,24,15,100,11.5,5.06,6.44,No,FEMALE,1,ğ ğ ±ğ ¹ğ ±ğ ±¸ğ ²ğ ³
+637,28yrs,High school degree,0,7,29,13.3,2.15,1.71,Yes,FEMALE,0,Ù¡Ù¢Ù£
+638,31yrs,Did not complete high school,7,11,41,30.7,3,9.59,Yes,MALE,2,ÌÌºÍÌ¹Ì¯ÍTÌ±Ì¤ÍÌ¥ÍÍhÍÌ²eÍÍÌ¼ÌÌÌ¼Ì£Í ÍÌÌ±Ì ÍÍÍNÍ ÍeÌÌ±zÌÌÌÌºÍpÌ¤ÌºÌ¹ÍÌ¯ÍeÍÌ Ì»Ì rÌ¨Ì¤ÍÌºÌÍÌÌdÍÌ ÌÌ­Ì¬ÌiÌ¦ÍÌ©ÍÍÌ¤aÌ ÌÌ¬ÍÌnÍÍ Ì»ÌÌ°ÍÍhÌµÍiÌ³ÌvÌ¢ÍeÍÌ­Í-ÒÌ­Ì©Ì¼ÍmÌ¤Ì­Ì«iÍÍÌÌ¦nÌÍdÌ£Ì ÍÌ¯Ì²ÍoÌ¨ÌÌ¯Ì°Ì²
+639,41yrs,High school degree,6,1,19,6.3,0.12,1.07,No,FEMALE,1,á
+640,36yrs,Did not complete high school,7,17,40,9.9,1.69,2.27,No,FEMALE,2,../../../../../../../../../../../etc/passwd%00
+641,41yrs,Some college,1,16,19,4.4,0.24,0.59,No,FEMALE,0,",ãã»:*:ã»ãâ( â» Ï â» )ãã»:*:ã»ãâ"
+642,53yrs,High school degree,16,31,44,5.6,1.33,1.13,No,FEMALE,1,-1.00E+02
+643,31yrs,College degree,6,5,25,11.5,2.33,0.54,No,MALE,1,ËÉnbá´lÉ ÉuÆÉÉ¯ ÇÉ¹olop ÊÇ ÇÉ¹oqÉl Ên Êunpá´pá´Éuá´ É¹odÉ¯ÇÊ poÉ¯sná´Ç op pÇs 'Êá´lÇ Æuá´Ésá´dá´pÉ É¹nÊÇÊÉÇsuoÉ 'ÊÇÉ¯É Êá´s É¹olop É¯nsdá´ É¯ÇÉ¹oË¥
+644,28yrs,Some college,5,6,25,2.9,0.34,0.39,No,MALE,2,ğ©ğ½
+645,48yrs,Post-undergraduate degree,28,25,70,12,4.33,4.07,No,FEMALE,1,Â¡â¢Â£Â¢âÂ§Â¶â¢ÂªÂºââ 
+646,23yrs,High school degree,0,1,42,3.9,1.02,0.62,Yes,MALE,1,1'; DROP TABLE users--
+647,31yrs,Post-undergraduate degree,11,6,34,6.8,0.3,2.01,No,FEMALE,1,null
+648,27yrs,College degree,6,6,43,4.9,0.88,1.22,No,FEMALE,0,-1
+649,43yrs,College degree,11,17,37,1.3,0.18,0.3,No,MALE,0,`ââ¬â¹âºï¬ï¬â¡Â°Â·ââÂ±
+650,29yrs,High school degree,5,7,28,18.7,2.13,3.11,No,FEMALE,1,`ââ¬â¹âºï¬ï¬â¡Â°Â·ââÂ±
+651,53yrs,Did not complete high school,6,7,27,6.4,0.59,1.13,Yes,MALE,2,ğ¾ ğ ğ ğ ğ ğ ğ ğ§
+652,38yrs,Did not complete high school,4,9,19,13.6,1.25,1.34,No,FEMALE,2,Ì¦HÍÌ¬Ì¤ÌÌ¤eÍ ÍÌÌ¥ÌÌ»ÍÌwÌhÌÌ¯ÍoÌÍÌÍÌ±Ì® ÒÌºÌÌÌÍWÌ·Ì¼Ì­aÌºÌªÍiÌ¨ÍÍÌ­ÍÌ¯ÌtÌ¶Ì¼Ì®sÌÌÍÍ Ì Ì«Ì BÌ»ÍÍÍÍÌ³eÌµhÌµÌ¬ÍÌ«ÍiÌÌ¹ÍÌ³Ì³Ì®ÍÌ«nÍdÌ´ÌªÌÌ ÍÌ°ÍÌ©ÍÍÍÌ²TÍ¢ÍÌ¼ÍÌªhÍÍÌ®Ì»eÌ¬ÌÍÌ Ì¤Ì¹ÌWÍÍÍÌÌÍÍaÍÍÍÌ¹Ì¼
+653,30yrs,College degree,12,10,38,8.5,0.17,3.06,No,FEMALE,1,1'; DROP TABLE users--
+654,28yrs,Some college,2,0,20,9.4,0.23,1.65,Yes,FEMALE,1,ğµ ğ ğ ğ
+655,36yrs,Some college,11,2,33,32.5,1.27,9.46,No,FEMALE,1,ì¸ëë°í ë¥´
+656,48yrs,Post-undergraduate degree,15,5,60,2.1,0.32,0.94,No,FEMALE,1,
+657,31yrs,Some college,12,9,24,6.6,0.44,1.14,No,FEMALE,1,-1
+658,35yrs,Post-undergraduate degree,16,10,57,10.5,1.14,4.84,No,FEMALE,1,<script>alert('hi')</script>
+659,50yrs,Post-undergraduate degree,4,4,23,12.5,0.14,2.73,No,FEMALE,1,â£
+660,42yrs,College degree,12,9,55,15,2.53,5.72,No,MALE,1,ÌÌºÍÌ¹Ì¯ÍTÌ±Ì¤ÍÌ¥ÍÍhÍÌ²eÍÍÌ¼ÌÌÌ¼Ì£Í ÍÌÌ±Ì ÍÍÍNÍ ÍeÌÌ±zÌÌÌÌºÍpÌ¤ÌºÌ¹ÍÌ¯ÍeÍÌ Ì»Ì rÌ¨Ì¤ÍÌºÌÍÌÌdÍÌ ÌÌ­Ì¬ÌiÌ¦ÍÌ©ÍÍÌ¤aÌ ÌÌ¬ÍÌnÍÍ Ì»ÌÌ°ÍÍhÌµÍiÌ³ÌvÌ¢ÍeÍÌ­Í-ÒÌ­Ì©Ì¼ÍmÌ¤Ì­Ì«iÍÍÌÌ¦nÌÍdÌ£Ì ÍÌ¯Ì²ÍoÌ¨ÌÌ¯Ì°Ì²
+661,40yrs,Did not complete high school,2,3,28,7.1,0.18,1.8,No,FEMALE,1,",./;'[]\-="
+662,42yrs,High school degree,0,13,31,0.9,0.12,0.16,Yes,MALE,0,ZÌ®ÌÍÌ ÍÍAÌ¥ÌÌÍÌ»ÌLÌ£ÍÍÌ¯Ì¹ÌÍGÌ»OÌ­ÌÌ®
+663,31yrs,Some college,6,8,54,2.8,0.4,1.11,No,FEMALE,1,ÃÃÃÃËÃÃï£¿ÃÃÃâ
+664,38yrs,Did not complete high school,11,13,35,8,1.27,1.53,No,MALE,0,!@#$%^&*()
+665,35yrs,College degree,15,1,77,10.6,5.5,2.66,No,MALE,1,null
+666,44yrs,College degree,24,10,101,5.6,2.99,2.66,No,MALE,2,ã½à¼¼àºÙÍàºà¼½ï¾ ã½à¼¼àºÙÍàºà¼½ï¾
+667,44yrs,High school degree,21,14,113,13.2,3.19,11.72,No,FEMALE,2,×Ö¸×Ö°×ªÖ¸×testØ§ÙØµÙØ­Ø§Øª Ø§ÙØªÙØ­ÙÙ
+668,23yrs,Did not complete high school,0,12,23,0.9,0.08,0.13,No,MALE,2,(ï¾à²¥çà²¥ï¼ï¾ï»¿ â»ââ»
+669,35yrs,Some college,7,14,29,4.9,0.26,1.16,No,MALE,2,NULL
+670,36yrs,Some college,10,4,43,13,0.96,4.63,No,FEMALE,1,ì¬íê³¼íì ì´íì°êµ¬ì
+671,23yrs,High school degree,3,4,24,6.3,0.55,0.96,No,MALE,0,NULL
+672,27yrs,Did not complete high school,0,7,18,12.8,0.58,1.72,No,FEMALE,2,
+673,23yrs,Post-undergraduate degree,6,1,20,1.2,0.04,0.2,No,FEMALE,1,testâ testâ«
+674,35yrs,Did not complete high school,0,5,34,11.1,1.37,2.4,Yes,MALE,2,â¦testâ§
+675,24yrs,High school degree,4,4,20,3.7,0.32,0.42,No,MALE,1,",ãã»:*:ã»ãâ( â» Ï â» )ãã»:*:ã»ãâ"
+676,48yrs,Post-undergraduate degree,30,8,101,6.4,1.87,4.59,No,FEMALE,2,-1.00E+02
+677,26yrs,Post-undergraduate degree,8,1,40,11.8,0.44,4.28,No,FEMALE,0,ZÌ®ÌÍÌ ÍÍAÌ¥ÌÌÍÌ»ÌLÌ£ÍÍÌ¯Ì¹ÌÍGÌ»OÌ­ÌÌ®
+678,49yrs,Did not complete high school,6,9,36,2.1,0.39,0.37,Yes,MALE,2,../../../../../../../../../../../etc/hosts
+679,34yrs,Did not complete high school,9,8,48,9.3,0.42,4.04,No,FEMALE,1,-1
+680,35yrs,Some college,17,4,42,3,0.09,1.17,No,MALE,2,(ï¾à²¥çà²¥ï¼ï¾ï»¿ â»ââ»
+681,37yrs,Did not complete high school,7,2,33,25.4,1.17,7.22,Yes,FEMALE,0,(â¯Â°â¡Â°ï¼â¯ï¸µ â»ââ»)
+682,20yrs,Did not complete high school,4,0,14,9.7,0.2,1.16,Yes,MALE,1,âğ¿ ğªğ¿ ğğ¿ ğğ¿ ğğ¿ ğğ¿
+683,36yrs,College degree,1,17,30,11.5,0.32,3.13,No,MALE,0,$1.00 
+684,21yrs,College degree,1,1,16,6.3,0.14,0.87,No,MALE,0,-1.00E+02
+685,34yrs,Did not complete high school,18,10,53,10.5,0.84,4.72,No,MALE,0,â¡
+686,35yrs,Post-undergraduate degree,7,5,39,16.1,1.7,4.58,Yes,MALE,1,"Ø«Ù ÙÙØ³ Ø³ÙØ·Øª ÙØ¨Ø§ÙØªØ­Ø¯ÙØ¯Ø, Ø¬Ø²ÙØ±ØªÙ Ø¨Ø§Ø³ØªØ®Ø¯Ø§Ù Ø£Ù Ø¯ÙÙ. Ø¥Ø° ÙÙØ§Ø Ø§ÙØ³ØªØ§Ø± ÙØªÙØµÙØ¨ ÙØ§Ù. Ø£ÙÙÙ Ø§ÙØ·Ø§ÙÙØ§Ø Ø¨Ø±ÙØ·Ø§ÙÙØ§-ÙØ±ÙØ³Ø§ ÙØ¯ Ø£Ø®Ø°. Ø³ÙÙÙØ§ÙØ Ø¥ØªÙØ§ÙÙØ© Ø¨ÙÙ ÙØ§, ÙØ°ÙØ± Ø"
+687,35yrs,Post-undergraduate degree,1,4,20,7.9,0.85,0.73,No,FEMALE,1,(ï½¡â â âï½¡)
+688,34yrs,Post-undergraduate degree,10,1,33,10.3,2.5,0.9,Yes,FEMALE,1,Ù¡Ù¢Ù£
+689,33yrs,Did not complete high school,12,12,68,10.8,1.37,5.98,No,FEMALE,1,-1.00E+02
+690,30yrs,Post-undergraduate degree,4,2,18,10.7,0.23,1.7,No,FEMALE,1,Ã¥ÃâÆÂ©ËâËÂ¬â¦Ã¦
+691,24yrs,High school degree,0,5,16,7.3,0.02,1.14,No,FEMALE,2,â°â´âµâââ
+692,47yrs,College degree,31,8,253,7.2,9.31,8.91,No,FEMALE,1,(ï¾à²¥çà²¥ï¼ï¾ï»¿ â»ââ»
+693,39yrs,Post-undergraduate degree,0,26,27,28.9,2.75,5.05,Yes,MALE,2,Ã¥ÃâÆÂ©ËâËÂ¬â¦Ã¦
+694,22yrs,Some college,0,2,20,4.7,0.22,0.72,No,FEMALE,0,ÌÌºÍÌ¹Ì¯ÍTÌ±Ì¤ÍÌ¥ÍÍhÍÌ²eÍÍÌ¼ÌÌÌ¼Ì£Í ÍÌÌ±Ì ÍÍÍNÍ ÍeÌÌ±zÌÌÌÌºÍpÌ¤ÌºÌ¹ÍÌ¯ÍeÍÌ Ì»Ì rÌ¨Ì¤ÍÌºÌÍÌÌdÍÌ ÌÌ­Ì¬ÌiÌ¦ÍÌ©ÍÍÌ¤aÌ ÌÌ¬ÍÌnÍÍ Ì»ÌÌ°ÍÍhÌµÍiÌ³ÌvÌ¢ÍeÍÌ­Í-ÒÌ­Ì©Ì¼ÍmÌ¤Ì­Ì«iÍÍÌÌ¦nÌÍdÌ£Ì ÍÌ¯Ì²ÍoÌ¨ÌÌ¯Ì°Ì²
+695,48yrs,High school degree,6,1,66,12.1,2.32,5.67,No,MALE,1,Ù¡Ù¢Ù£
+696,36yrs,College degree,6,15,27,4.6,0.26,0.98,Yes,MALE,0,â«testâ«
+697,29yrs,College degree,6,4,21,11.5,0.37,2.05,No,MALE,1,1'; DROP TABLE users--
+698,33yrs,Some college,15,3,32,7.6,0.49,1.94,No,MALE,0,1.00E+96
+699,45yrs,Did not complete high school,19,22,77,8.4,2.3,4.17,No,FEMALE,2,
+700,37yrs,Did not complete high school,12,14,44,14.7,2.99,3.47,No,FEMALE,1,"''''"""
+701,36yrs,Some college,16,13,32,10.9,0.54,2.94,,,,âğ¿ ğªğ¿ ğğ¿ ğğ¿ ğğ¿ ğğ¿
+702,50yrs,High school degree,6,27,21,12.9,1.32,1.39,,,,ã
+703,40yrs,High school degree,9,9,33,17,4.88,0.73,,,,
+704,42yrs,Some college,5,7,23,2,0.05,0.41,,,,ÅâÂ´Â®â Â¥Â¨ËÃ¸Ïââ
+705,29yrs,Some college,4,0,24,7.8,0.87,1.01,,,,1;DROP TABLE users
+706,25yrs,High school degree,1,3,14,9.9,0.23,1.15,,,,ğ¾ ğ ğ ğ ğ ğ ğ ğ§
+707,34yrs,Did not complete high school,4,3,28,9.4,1.06,1.57,,,,"__ï¾(,_,*)"
+708,39yrs,High school degree,30,8,150,32.5,13.55,35.2,,,,
+709,27yrs,Did not complete high school,5,5,26,1.2,0.13,0.18,,,,á
+710,31yrs,College degree,7,12,97,6,1.83,3.99,,,,ÌÌºÍÌ¹Ì¯ÍTÌ±Ì¤ÍÌ¥ÍÍhÍÌ²eÍÍÌ¼ÌÌÌ¼Ì£Í ÍÌÌ±Ì ÍÍÍNÍ ÍeÌÌ±zÌÌÌÌºÍpÌ¤ÌºÌ¹ÍÌ¯ÍeÍÌ Ì»Ì rÌ¨Ì¤ÍÌºÌÍÌÌdÍÌ ÌÌ­Ì¬ÌiÌ¦ÍÌ©ÍÍÌ¤aÌ ÌÌ¬ÍÌnÍÍ Ì»ÌÌ°ÍÍhÌµÍiÌ³ÌvÌ¢ÍeÍÌ­Í-ÒÌ­Ì©Ì¼ÍmÌ¤Ì­Ì«iÍÍÌÌ¦nÌÍdÌ£Ì ÍÌ¯Ì²ÍoÌ¨ÌÌ¯Ì°Ì²
+711,45yrs,Did not complete high school,8,25,27,2.6,0.42,0.29,,,,âªâªtestâª
+712,23yrs,Did not complete high school,10,8,28,1.3,0.11,0.25,,,,ï½ï½¨(Â´âï½â©
+713,47yrs,Post-undergraduate degree,27,7,107,6.1,1.64,4.89,,,,($1.00)
+714,50yrs,Some college,25,7,94,5.3,1.73,3.25,,,,'
+715,37yrs,High school degree,15,11,108,11.8,5.25,7.49,,,,ç¤¾æç§å­¸é¢èªå­¸ç ç©¶æ
+716,36yrs,Did not complete high school,7,6,41,23.4,0.59,9.01,,,,Â¡â¢Â£Â¢âÂ§Â¶â¢ÂªÂºââ 
+717,26yrs,Post-undergraduate degree,1,5,92,13,6.51,5.45,,,,-0.5
+718,33yrs,College degree,16,12,46,8.1,2.4,1.33,,,,ÌÌºÍÌ¹Ì¯ÍTÌ±Ì¤ÍÌ¥ÍÍhÍÌ²eÍÍÌ¼ÌÌÌ¼Ì£Í ÍÌÌ±Ì ÍÍÍNÍ ÍeÌÌ±zÌÌÌÌºÍpÌ¤ÌºÌ¹ÍÌ¯ÍeÍÌ Ì»Ì rÌ¨Ì¤ÍÌºÌÍÌÌdÍÌ ÌÌ­Ì¬ÌiÌ¦ÍÌ©ÍÍÌ¤aÌ ÌÌ¬ÍÌnÍÍ Ì»ÌÌ°ÍÍhÌµÍiÌ³ÌvÌ¢ÍeÍÌ­Í-ÒÌ­Ì©Ì¼ÍmÌ¤Ì­Ì«iÍÍÌÌ¦nÌÍdÌ£Ì ÍÌ¯Ì²ÍoÌ¨ÌÌ¯Ì°Ì²
+719,43yrs,Did not complete high school,8,0,32,19,1.23,4.85,,,,ã»(ï¿£âï¿£)ã»:*:
+720,49yrs,High school degree,14,26,63,15.8,0.94,9.02,,,,'
+721,44yrs,Did not complete high school,2,15,22,9.6,1.09,1.02,,,,
+722,32yrs,Some college,12,10,33,11.2,0.79,2.9,,,,âââ
+723,21yrs,Some college,5,4,20,1.5,0.09,0.21,,,,1.00E+02
+724,52yrs,Did not complete high school,33,23,139,5.6,2.29,5.5,,,,Ì¡ÍÍÌIÍÌÌÌ¦nÍÍÍvÌ®Ì«okÌ²Ì«ÌÍiÌÍÌ­Ì¹Ì ÌnÌ¡Ì»Ì®Ì£ÌºgÌ²ÍÍÌ­ÍÌ¬Í Ì°tÍÌ¦hÌÌ²eÌ¢Ì¤ ÍÌ¬Ì²ÍfÌ´ÌÍÌ£eÍÍeÌ£Ì¥Ì©lÍÍÍiÍ ÍÍÌ¦nÍÍÌÍÌ³Ì®gÍ Ì¨oÍ¡ÍÌªfÌÌ£Ì¬ ÌÌÍÌÍÌ®cÒÍÌ«ÍÍÍÍÍhÌµÌ¤Ì£ÍÍaÍÌÌ¼ÍÍoÌ¼Ì£Ì¥sÍ¢Ì±ÍÌºÌÌ¦Ì».ÌÌ
+725,35yrs,Did not complete high school,10,3,24,21.3,1.08,4.03,,,,ÅâÂ´â°ËÃÂ¨ËÃâââ
+726,33yrs,College degree,4,12,22,5.5,0.57,0.64,,,,â°â´âµâââ
+727,35yrs,Did not complete high school,11,12,77,4.7,1.1,2.52,,,,"<>?:""{}|_+"
+728,44yrs,High school degree,9,3,40,1.6,0.37,0.27,,,,-1.00E+02
+729,39yrs,Did not complete high school,19,16,53,3.7,0.19,1.77,,,,ğ ğ ±ğ ¹ğ ±ğ ±¸ğ ²ğ ³
+730,31yrs,Some college,8,4,27,5.4,0.67,0.78,,,,ã½à¼¼àºÙÍàºà¼½ï¾ ã½à¼¼àºÙÍàºà¼½ï¾
+731,37yrs,College degree,5,11,27,9.4,0.42,2.12,,,,() { _; } >_[$($())] { touch /tmp/blns.shellshock2.fail; }
+732,44yrs,Some college,19,9,40,10.9,0.34,4.02,,,,() { _; } >_[$($())] { touch /tmp/blns.shellshock2.fail; }
+733,30yrs,Some college,1,1,27,12.3,1.28,2.05,,,,ğ ğ ±ğ ¹ğ ±ğ ±¸ğ ²ğ ³
+734,37yrs,Did not complete high school,18,9,58,10.3,2.87,3.11,,,,â
+735,35yrs,Did not complete high school,11,9,40,2.9,0.57,0.59,,,,ã½à¼¼àºÙÍàºà¼½ï¾ ã½à¼¼àºÙÍàºà¼½ï¾
+736,43yrs,Did not complete high school,4,11,26,7.1,0.75,1.09,,,,
+737,26yrs,Did not complete high school,0,5,17,5,0.14,0.71,,,,ÅâÂ´â°ËÃÂ¨ËÃâââ
+738,35yrs,Did not complete high school,13,4,42,17.6,0.77,6.62,,,,Ì¡ÍÍÌIÍÌÌÌ¦nÍÍÍvÌ®Ì«okÌ²Ì«ÌÍiÌÍÌ­Ì¹Ì ÌnÌ¡Ì»Ì®Ì£ÌºgÌ²ÍÍÌ­ÍÌ¬Í Ì°tÍÌ¦hÌÌ²eÌ¢Ì¤ ÍÌ¬Ì²ÍfÌ´ÌÍÌ£eÍÍeÌ£Ì¥Ì©lÍÍÍiÍ ÍÍÌ¦nÍÍÌÍÌ³Ì®gÍ Ì¨oÍ¡ÍÌªfÌÌ£Ì¬ ÌÌÍÌÍÌ®cÒÍÌ«ÍÍÍÍÍhÌµÌ¤Ì£ÍÍaÍÌÌ¼ÍÍoÌ¼Ì£Ì¥sÍ¢Ì±ÍÌºÌÌ¦Ì».ÌÌ
+739,24yrs,Did not complete high school,4,0,19,11,1.19,0.9,,,,Ù¡Ù¢Ù£
+740,24yrs,Did not complete high school,4,1,23,4.9,0.24,0.88,,,,1.00E+02
+741,26yrs,Some college,3,1,40,10.8,1.9,2.42,,,,`ââ¬â¹âºï¬ï¬â¡Â°Â·ââÂ±
+742,34yrs,Did not complete high school,10,12,48,5.1,0.26,2.18,,,,âªâªtestâª
+743,44yrs,College degree,18,23,78,1,0.56,0.22,,,,-1.00E+02
+744,46yrs,Did not complete high school,9,6,72,5,0.83,2.77,,,,testâ testâ«
+745,40yrs,Did not complete high school,17,5,55,11.4,2.13,4.14,,,,"×Ö¼Ö°×¨Öµ××©×Ö´××ª, ×Ö¼Ö¸×¨Ö¸× ×Ö±×Ö¹×Ö´××, ×Öµ×ª ×Ö·×©Ö¼×Ö¸×Ö·×Ö´×, ×Ö°×Öµ×ª ×Ö¸×Ö¸×¨Ö¶×¥"
+746,37yrs,College degree,2,1,29,15.4,2.78,1.68,,,,"__ï¾(,_,*)"
+747,35yrs,Some college,5,13,30,10.6,1.53,1.65,,,,1.00E+02
+748,46yrs,High school degree,18,18,55,4.4,0.42,2,,,,0ï¸â£ 1ï¸â£ 2ï¸â£ 3ï¸â£ 4ï¸â£ 5ï¸â£ 6ï¸â£ 7ï¸â£ 8ï¸â£ 9ï¸â£ ğ
+749,40yrs,Some college,5,18,28,10,1.26,1.54,,,,â
+750,48yrs,High school degree,21,14,86,1.2,0.15,0.89,,,,åè£½æ¼¢èª
+751,53yrs,Did not complete high school,33,25,324,7,7.05,15.63,,,,1.00E+02
+752,45yrs,Some college,9,0,84,13.1,1.28,9.73,,,,âââ
+753,32yrs,Some college,6,12,22,6.7,0.38,1.09,,,,ã½à¼¼àºÙÍàºà¼½ï¾ ã½à¼¼àºÙÍàºà¼½ï¾
+754,43yrs,Did not complete high school,15,21,62,9.4,0.69,5.13,,,,0ï¸â£ 1ï¸â£ 2ï¸â£ 3ï¸â£ 4ï¸â£ 5ï¸â£ 6ï¸â£ 7ï¸â£ 8ï¸â£ 9ï¸â£ ğ
+755,29yrs,High school degree,3,9,32,9,1.07,1.81,,,,Î©âÃ§ââ«ËÂµâ¤â¥Ã·
+756,47yrs,High school degree,7,24,49,0.9,0.25,0.19,,,,ï½ï½¨(Â´âï½â©
+757,21yrs,High school degree,1,0,17,10.5,0.56,1.23,,,,01-Feb
+758,30yrs,Did not complete high school,0,2,20,5.4,0.62,0.46,,,,ã
+759,25yrs,Some college,3,2,54,7.4,1.16,2.83,,,,1.00E+02
+760,27yrs,Did not complete high school,6,2,52,13.8,1.9,5.27,,,,Â¸ËÃâÄ±ËÃÂ¯ËÂ¿
+761,36yrs,Did not complete high school,4,17,25,4,0.14,0.86,,,,Ù¡Ù¢Ù£
+762,35yrs,Did not complete high school,12,3,30,15.4,1.9,2.72,,,,",./;'[]\-="
+763,33yrs,Did not complete high school,11,6,35,15.9,0.51,5.06,,,,"×Ö¼Ö°×¨Öµ××©×Ö´××ª, ×Ö¼Ö¸×¨Ö¸× ×Ö±×Ö¹×Ö´××, ×Öµ×ª ×Ö·×©Ö¼×Ö¸×Ö·×Ö´×, ×Ö°×Öµ×ª ×Ö¸×Ö¸×¨Ö¶×¥"
+764,21yrs,Some college,0,1,41,19.5,2.37,5.63,,,,ì¸ëë°í ë¥´
+765,44yrs,Did not complete high school,18,0,61,10.8,2.81,3.78,,,,ÌÌºÍÌ¹Ì¯ÍTÌ±Ì¤ÍÌ¥ÍÍhÍÌ²eÍÍÌ¼ÌÌÌ¼Ì£Í ÍÌÌ±Ì ÍÍÍNÍ ÍeÌÌ±zÌÌÌÌºÍpÌ¤ÌºÌ¹ÍÌ¯ÍeÍÌ Ì»Ì rÌ¨Ì¤ÍÌºÌÍÌÌdÍÌ ÌÌ­Ì¬ÌiÌ¦ÍÌ©ÍÍÌ¤aÌ ÌÌ¬ÍÌnÍÍ Ì»ÌÌ°ÍÍhÌµÍiÌ³ÌvÌ¢ÍeÍÌ­Í-ÒÌ­Ì©Ì¼ÍmÌ¤Ì­Ì«iÍÍÌÌ¦nÌÍdÌ£Ì ÍÌ¯Ì²ÍoÌ¨ÌÌ¯Ì°Ì²
+766,37yrs,Did not complete high school,19,7,38,13.5,2.59,2.54,,,,
+767,27yrs,Did not complete high school,5,7,26,6.8,0.55,1.22,,,,ï¾ï½¥â¿ã¾â²(ï½¡ââ¿âï½¡)â±â¿ï½¥ï¾
+768,37yrs,High school degree,11,11,47,9.6,1.6,2.91,,,,Ã¥ÃâÆÂ©ËâËÂ¬â¦Ã¦
+769,48yrs,High school degree,9,22,44,5.9,2.13,0.46,,,,ğ ğ ±ğ ¹ğ ±ğ ±¸ğ ²ğ ³
+770,30yrs,Did not complete high school,4,2,21,3.5,0.23,0.51,,,,(â¯Â°â¡Â°ï¼â¯ï¸µ â»ââ»)
+771,22yrs,College degree,0,1,25,12.2,1.49,1.56,,,,NIL
+772,39yrs,High school degree,18,18,47,7.6,1.56,2.01,,,,Ù¡Ù¢Ù£
+773,26yrs,Did not complete high school,5,6,18,15.5,0.57,2.22,,,,'
+774,31yrs,High school degree,9,8,30,21.7,3.65,2.86,,,,ğ
+775,47yrs,Did not complete high school,29,20,169,2.2,0.35,3.37,,,,Ù¡Ù¢Ù£
+776,33yrs,High school degree,5,2,37,8.4,1.03,2.08,,,,NIL
+777,23yrs,High school degree,2,2,48,7.5,0.51,3.09,,,,<script>alert('hi')</script>
+778,25yrs,High school degree,5,5,35,16.5,1.97,3.81,,,,ğ¾ ğ ğ ğ ğ ğ ğ ğ
+779,34yrs,Did not complete high school,4,6,23,5.6,0.62,0.67,,,,Ì¦HÍÌ¬Ì¤ÌÌ¤eÍ ÍÌÌ¥ÌÌ»ÍÌwÌhÌÌ¯ÍoÌÍÌÍÌ±Ì® ÒÌºÌÌÌÍWÌ·Ì¼Ì­aÌºÌªÍiÌ¨ÍÍÌ­ÍÌ¯ÌtÌ¶Ì¼Ì®sÌÌÍÍ Ì Ì«Ì BÌ»ÍÍÍÍÌ³eÌµhÌµÌ¬ÍÌ«ÍiÌÌ¹ÍÌ³Ì³Ì®ÍÌ«nÍdÌ´ÌªÌÌ ÍÌ°ÍÌ©ÍÍÍÌ²TÍ¢ÍÌ¼ÍÌªhÍÍÌ®Ì»eÌ¬ÌÍÌ Ì¤Ì¹ÌWÍÍÍÌÌÍÍaÍÍÍÌ¹Ì¼
+780,56yrs,Did not complete high school,19,26,66,3.3,0.85,1.33,,,,",ãã»:*:ã»ãâ( â» Ï â» )ãã»:*:ã»ãâ"
+781,32yrs,Did not complete high school,7,10,23,9.8,0.86,1.39,,,,
+782,27yrs,Some college,0,4,50,14.7,1.04,6.31,,,,-0.5
+783,41yrs,High school degree,6,7,36,13.9,1.49,3.52,,,,1
+784,31yrs,Did not complete high school,8,11,27,20.3,3.74,1.74,,,,Ì¦HÍÌ¬Ì¤ÌÌ¤eÍ ÍÌÌ¥ÌÌ»ÍÌwÌhÌÌ¯ÍoÌÍÌÍÌ±Ì® ÒÌºÌÌÌÍWÌ·Ì¼Ì­aÌºÌªÍiÌ¨ÍÍÌ­ÍÌ¯ÌtÌ¶Ì¼Ì®sÌÌÍÍ Ì Ì«Ì BÌ»ÍÍÍÍÌ³eÌµhÌµÌ¬ÍÌ«ÍiÌÌ¹ÍÌ³Ì³Ì®ÍÌ«nÍdÌ´ÌªÌÌ ÍÌ°ÍÌ©ÍÍÍÌ²TÍ¢ÍÌ¼ÍÌªhÍÍÌ®Ì»eÌ¬ÌÍÌ Ì¤Ì¹ÌWÍÍÍÌÌÍÍaÍÍÍÌ¹Ì¼
+785,38yrs,College degree,13,2,126,13.7,7.61,9.65,,,,nil
+786,31yrs,Did not complete high school,6,1,45,7.3,0.58,2.7,,,,00ËÆ$-
+787,27yrs,Some college,16,8,75,0.1,0.02,0.05,,,,â¦testâ§
+788,30yrs,High school degree,2,2,26,3.8,0.25,0.74,,,,ğµ ğ ğ ğ
+789,44yrs,High school degree,8,18,43,5,0.55,1.6,,,,â¡
+790,25yrs,High school degree,5,3,42,15.5,3.37,3.14,,,,â°â´âµâââ
+791,33yrs,High school degree,10,2,54,3,0.12,1.5,,,,() { _; } >_[$($())] { touch /tmp/blns.shellshock2.fail; }
+792,25yrs,Did not complete high school,3,5,31,8.1,0.88,1.63,,,,00ËÆ$-
+793,45yrs,Did not complete high school,14,26,46,5.1,1.26,1.08,,,,<img src=x onerror=alert('hi') />
+794,23yrs,Did not complete high school,6,2,15,12.7,1.38,0.53,,,,0ï¸â£ 1ï¸â£ 2ï¸â£ 3ï¸â£ 4ï¸â£ 5ï¸â£ 6ï¸â£ 7ï¸â£ 8ï¸â£ 9ï¸â£ ğ
+795,43yrs,Did not complete high school,24,22,254,7.7,7,12.56,,,,Î©âÃ§ââ«ËÂµâ¤â¥Ã·
+796,38yrs,High school degree,12,14,40,5.1,0.9,1.14,,,,NIL
+797,24yrs,Did not complete high school,1,4,16,7.2,0.88,0.27,,,,"'""''''"""
+798,29yrs,High school degree,2,4,16,10.5,0.43,1.25,,,,(ï¾à²¥çà²¥ï¼ï¾ï»¿ â»ââ»
+799,40yrs,Did not complete high school,23,16,81,10.9,1,7.83,,,,ç°ä¸­ããã«ããã¦ä¸ãã
+800,47yrs,Did not complete high school,3,1,21,15.4,0.07,3.17,,,,00ËÆ$-
+801,24yrs,Did not complete high school,1,5,16,9.2,0.19,1.29,,,,Â¡â¢Â£Â¢âÂ§Â¶â¢ÂªÂºââ 
+802,35yrs,High school degree,0,6,35,12.4,2.38,1.96,,,,ãã¼ãã£ã¼ã¸è¡ããªãã
+803,38yrs,Did not complete high school,1,9,42,9.1,0.89,2.93,,,,1.00E+02
+804,40yrs,Did not complete high school,10,0,70,28.2,10.68,9.06,,,,
+805,35yrs,High school degree,12,12,64,15,1.45,8.15,,,,1.00E+96
+806,27yrs,Did not complete high school,11,1,21,11.4,0.91,1.48,,,,testâ testâ«
+807,47yrs,Some college,16,7,266,2,2.19,3.13,,,,"×Ö¼Ö°×¨Öµ××©×Ö´××ª, ×Ö¼Ö¸×¨Ö¸× ×Ö±×Ö¹×Ö´××, ×Öµ×ª ×Ö·×©Ö¼×Ö¸×Ö·×Ö´×, ×Ö°×Öµ×ª ×Ö¸×Ö¸×¨Ö¶×¥"
+808,31yrs,Did not complete high school,3,5,16,32.3,3.06,2.1,,,,ÅâÂ´Â®â Â¥Â¨ËÃ¸Ïââ
+809,30yrs,Did not complete high school,12,4,40,7,1.25,1.55,,,,-1.00E+02
+810,29yrs,High school degree,10,3,61,6.2,0.8,2.98,,,,"×Ö¼Ö°×¨Öµ××©×Ö´××ª, ×Ö¼Ö¸×¨Ö¸× ×Ö±×Ö¹×Ö´××, ×Öµ×ª ×Ö·×©Ö¼×Ö¸×Ö·×Ö´×, ×Ö°×Öµ×ª ×Ö¸×Ö¸×¨Ö¶×¥"
+811,36yrs,College degree,1,6,64,23.3,7.75,7.16,,,,ğ
+812,38yrs,Did not complete high school,21,17,65,16.8,2.53,8.39,,,,â«testâ«
+813,45yrs,Did not complete high school,7,17,29,6.1,0.74,1.03,,,,ğ©ğ½
+814,29yrs,Did not complete high school,3,10,23,9.3,1.1,1.04,,,,ç°ä¸­ããã«ããã¦ä¸ãã
+815,52yrs,Did not complete high school,17,4,73,8.7,1.05,5.3,,,,âªâªtestâª
+816,24yrs,Did not complete high school,1,0,20,4.1,0.32,0.5,,,,testâ testâ«
+817,33yrs,High school degree,8,13,27,9.8,1.65,1,,,,NULL
+818,38yrs,High school degree,0,18,21,4.6,0.61,0.35,,,,ÃÃÃÃËÃÃï£¿ÃÃÃâ
+819,26yrs,Post-undergraduate degree,0,2,15,5.4,0.39,0.42,,,,ã
+820,26yrs,College degree,2,5,22,6.4,0.24,1.17,,,,"''''"""
+821,35yrs,Some college,16,0,37,17.2,4.21,2.15,,,,ì¬íê³¼íì ì´íì°êµ¬ì
+822,43yrs,Some college,9,8,66,8.8,2.34,3.47,,,,â¤ï¸ ğ ğ ğ ğ ğ ğ ğ ğ ğ ğ ğ ğ ğ ğ
+823,45yrs,College degree,8,1,140,13.9,4.18,15.28,,,,"__ï¾(,_,*)"
+824,24yrs,Post-undergraduate degree,5,1,46,3.8,0.53,1.22,,,,ÌÌºÍÌ¹Ì¯ÍTÌ±Ì¤ÍÌ¥ÍÍhÍÌ²eÍÍÌ¼ÌÌÌ¼Ì£Í ÍÌÌ±Ì ÍÍÍNÍ ÍeÌÌ±zÌÌÌÌºÍpÌ¤ÌºÌ¹ÍÌ¯ÍeÍÌ Ì»Ì rÌ¨Ì¤ÍÌºÌÍÌÌdÍÌ ÌÌ­Ì¬ÌiÌ¦ÍÌ©ÍÍÌ¤aÌ ÌÌ¬ÍÌnÍÍ Ì»ÌÌ°ÍÍhÌµÍiÌ³ÌvÌ¢ÍeÍÌ­Í-ÒÌ­Ì©Ì¼ÍmÌ¤Ì­Ì«iÍÍÌÌ¦nÌÍdÌ£Ì ÍÌ¯Ì²ÍoÌ¨ÌÌ¯Ì°Ì²
+825,44yrs,Post-undergraduate degree,7,16,78,10.5,3.15,5.04,,,,
+826,29yrs,Post-undergraduate degree,0,7,23,8,1.24,0.6,,,,ÅâÂ´Â®â Â¥Â¨ËÃ¸Ïââ
+827,22yrs,High school degree,0,0,14,17.1,0.24,2.15,,,,-1.00E+02
+828,38yrs,Did not complete high school,16,8,37,8.6,0.08,3.1,,,,á
+829,46yrs,Did not complete high school,6,19,30,17.6,1.42,3.86,,,,ã
+830,46yrs,College degree,7,16,73,1.1,0.56,0.25,,,,NIL
+831,32yrs,Some college,13,11,25,7.5,0.6,1.28,,,,`ââ¬â¹âºï¬ï¬â¡Â°Â·ââÂ±
+832,39yrs,Some college,16,10,126,6.8,1.41,7.16,,,,"×Ö¼Ö°×¨Öµ××©×Ö´××ª, ×Ö¼Ö¸×¨Ö¸× ×Ö±×Ö¹×Ö´××, ×Öµ×ª ×Ö·×©Ö¼×Ö¸×Ö·×Ö´×, ×Ö°×Öµ×ª ×Ö¸×Ö¸×¨Ö¶×¥"
+833,40yrs,Some college,15,19,138,4.1,1.22,4.44,,,,00ËÆ$-
+834,47yrs,Some college,16,19,110,12.6,5.82,8.04,,,,'
+835,28yrs,College degree,10,1,42,8.6,1.05,2.56,,,,<svg><script>0<1>alert('XSS')</script>
+836,36yrs,Some college,19,8,45,12.1,0.92,4.52,,,,1.00E+02
+837,41yrs,High school degree,13,1,93,14.7,9.54,4.13,,,,Ù¡Ù¢Ù£
+838,31yrs,High school degree,12,8,44,9.6,1.87,2.36,,,,"×Ö¼Ö°×¨Öµ××©×Ö´××ª, ×Ö¼Ö¸×¨Ö¸× ×Ö±×Ö¹×Ö´××, ×Öµ×ª ×Ö·×©Ö¼×Ö¸×Ö·×Ö´×, ×Ö°×Öµ×ª ×Ö¸×Ö¸×¨Ö¶×¥"
+839,39yrs,Did not complete high school,20,8,116,4.1,2.24,2.52,,,,ã½à¼¼àºÙÍàºà¼½ï¾ ã½à¼¼àºÙÍàºà¼½ï¾
+840,37yrs,Did not complete high school,4,10,24,14.2,0.42,2.99,,,,00ËÆ$-
+841,35yrs,High school degree,11,1,62,32.4,9.7,10.39,,,,×Ö¸×Ö°×ªÖ¸×testØ§ÙØµÙØ­Ø§Øª Ø§ÙØªÙØ­ÙÙ
+842,35yrs,College degree,10,12,45,8.5,1.04,2.78,,,,<svg><script>0<1>alert('XSS')</script>
+843,51yrs,College degree,15,30,26,13.6,2.01,1.52,,,,â¦testâ§
+844,36yrs,Post-undergraduate degree,5,2,27,7,0.72,1.17,,,,null
+845,23yrs,High school degree,3,4,13,3.1,0.05,0.36,,,,nil
+846,34yrs,Did not complete high school,12,15,32,2.7,0.24,0.62,,,,0ï¸â£ 1ï¸â£ 2ï¸â£ 3ï¸â£ 4ï¸â£ 5ï¸â£ 6ï¸â£ 7ï¸â£ 8ï¸â£ 9ï¸â£ ğ
+847,32yrs,Post-undergraduate degree,12,11,116,5.7,4.03,2.59,,,,<svg><script>0<1>alert('XSS')</script>
+848,48yrs,Post-undergraduate degree,13,11,38,10.8,0.72,3.38,,,,'
+849,35yrs,College degree,1,11,24,7.8,0.42,1.45,,,,($1.00)
+850,37yrs,Post-undergraduate degree,20,13,41,12.9,0.9,4.39,,,,0
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
